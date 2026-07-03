@@ -413,8 +413,6 @@ Jika Sastrawi belum terpasang, install dengan:
 pip install Sastrawi
 ```
 
-## Ringkasan Jawaban Jika Ditanya Dosen
-
 Proyek ini melakukan pemodelan topik komentar YouTube menggunakan LDA, lalu melakukan clustering dokumen dengan FTC berdasarkan frequent term set dan Entropy Overlap. Setelah itu, proyek melakukan NER menggunakan rule-based method. Pada NER, sistem tidak memakai model deep learning, tetapi menggunakan fitur kontekstual, morfologis, POS sederhana, serta aturan IF-THEN dan regex untuk mengenali entity seperti tokoh, organisasi, lokasi, istilah hukum, agama, nominal uang, kuantitas, dan event.
 
 ## Catatan
