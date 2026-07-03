@@ -422,3 +422,5 @@ Proyek ini melakukan pemodelan topik komentar YouTube menggunakan LDA, lalu mela
 Karena preprocessing sekarang memakai stemming Sastrawi, kata pada hasil LDA dan FTC adalah bentuk dasar. Contohnya, `kejahatan` dapat berubah menjadi `jahat`, dan `perlawanan` dapat berubah menjadi `lawan`. Ini normal dalam preprocessing NLP bahasa Indonesia.
 "# Topik-Modelling-UAS" 
 "# Topik-Modelling-UAS" 
+"# Topik-Modelling-UAS" 
+"# Topik-Modelling-UAS" 

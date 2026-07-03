@@ -1,0 +1,7 @@
+Rule ID,IF,THEN,Contoh
+CF1_PERSON_PREFIX,"Token[i].Kind='WORD' AND lower(Token[i]) IN {dr, pak, bpk, kh, prof, ir}",Token[i].ContextualFeature='PPRE',Pak -> PPRE
+CF2_PERSON_TITLE,"Token[i].Kind='WORD' AND lower(Token[i]) IN {menteri, presiden, hakim, jaksa}",Token[i].ContextualFeature='PTIT',Menteri -> PTIT
+CF3_ORG_POSITION,"Token[i].Kind='WORD' AND lower(Token[i]) IN {ketua, menteri, rektor, direktur}",Token[i].ContextualFeature='OPOS',Ketua -> OPOS
+CF4_ORG_CONTEXT,"Token[i].Kind='WORD' AND lower(Token[i]) IN {gojek, goto, ojol, kpu, kemendikbud}",Token[i].ContextualFeature='OCON',Gojek -> OCON
+CF5_LOCATION_PREPOSITION,"Token[i].Kind='WORD' AND lower(Token[i]) IN {di, ke, dari}",Token[i].ContextualFeature='LOPP',di -> LOPP
+CF6_DATE_CONTEXT,Token[i].Kind='WORD' AND lower(Token[i]) IN daftar hari/bulan,Token[i].ContextualFeature='DAY' atau 'MONTH',Senin -> DAY; Mei -> MONTH

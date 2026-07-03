@@ -1,0 +1,7 @@
+Rule ID,IF,THEN,Contoh
+MF1_TITLE_CASE,Token[i] begins with uppercase letter AND remaining letters are lowercase,Token[i].MorphologicalFeature='TitleCase' and 'CapStart',"Nadiem -> TitleCase, CapStart"
+MF2_UPPER_CASE,Token[i] consists of uppercase letters AND length(Token[i]) > 1,Token[i].MorphologicalFeature='UpperCase' and 'CapStart',"KPU -> UpperCase, CapStart"
+MF3_LOWER_CASE,Token[i] consists of lowercase letters,Token[i].MorphologicalFeature='LowerCase',hukum -> LowerCase
+MF4_DIGIT,Token[i] consists only of numbers,Token[i].MorphologicalFeature='Digit',2004 -> Digit
+MF5_DIGIT_SLASH,Token[i] matches number/number pattern,Token[i].MorphologicalFeature='DigitSlash',17/5 -> DigitSlash
+MF6_NUMERIC,Token[i] is a number containing dot or comma,Token[i].MorphologicalFeature='Numeric',"16,3 -> Numeric"

@@ -1,0 +1,832 @@
+doc_id,comment_id,text,entity,label,rule_name,score,start,end
+1,2,Perlawanan ojol dgn tolak jokodok,jokodok,PER,person_jokowi,1.0,26,33
+1,2,Perlawanan ojol dgn tolak jokodok,ojol,ORG,org_gojek,1.0,11,15
+2,3,"Pilpres yg untuk menentukan nasib 280 juta orang Indonesia saja bisa diatur, apalagi cuma untuk 1 orang Indonesia ... ?! Ya gak pak Nadiem ?! Sabar lah ya",Nadiem,PER,person_nadiem,1.0,132,138
+2,3,"Pilpres yg untuk menentukan nasib 280 juta orang Indonesia saja bisa diatur, apalagi cuma untuk 1 orang Indonesia ... ?! Ya gak pak Nadiem ?! Sabar lah ya",Indonesia,GPE,geo_indonesia,1.0,49,58
+2,3,"Pilpres yg untuk menentukan nasib 280 juta orang Indonesia saja bisa diatur, apalagi cuma untuk 1 orang Indonesia ... ?! Ya gak pak Nadiem ?! Sabar lah ya",Indonesia,GPE,geo_indonesia,1.0,104,113
+2,3,"Pilpres yg untuk menentukan nasib 280 juta orang Indonesia saja bisa diatur, apalagi cuma untuk 1 orang Indonesia ... ?! Ya gak pak Nadiem ?! Sabar lah ya",Pilpres,EVT,event_terms,1.0,0,7
+2,3,"Pilpres yg untuk menentukan nasib 280 juta orang Indonesia saja bisa diatur, apalagi cuma untuk 1 orang Indonesia ... ?! Ya gak pak Nadiem ?! Sabar lah ya",280 juta,MON,money_terms,1.0,34,42
+2,3,"Pilpres yg untuk menentukan nasib 280 juta orang Indonesia saja bisa diatur, apalagi cuma untuk 1 orang Indonesia ... ?! Ya gak pak Nadiem ?! Sabar lah ya",1 orang,QTY,quantity_terms,1.0,96,103
+5,6,"Yg membuka lapangan kerja ber juta orang di Indonesia di bui,sedangkan koruptor di Indonesia yg merajalela,semakin solid,(pasti bung Karno&Soeharto)sedih melihat rakyat indonesia sengsara😢",Indonesia,GPE,geo_indonesia,1.0,44,53
+5,6,"Yg membuka lapangan kerja ber juta orang di Indonesia di bui,sedangkan koruptor di Indonesia yg merajalela,semakin solid,(pasti bung Karno&Soeharto)sedih melihat rakyat indonesia sengsara😢",Indonesia,GPE,geo_indonesia,1.0,83,92
+5,6,"Yg membuka lapangan kerja ber juta orang di Indonesia di bui,sedangkan koruptor di Indonesia yg merajalela,semakin solid,(pasti bung Karno&Soeharto)sedih melihat rakyat indonesia sengsara😢",indonesia,GPE,geo_indonesia,1.0,169,178
+5,6,"Yg membuka lapangan kerja ber juta orang di Indonesia di bui,sedangkan koruptor di Indonesia yg merajalela,semakin solid,(pasti bung Karno&Soeharto)sedih melihat rakyat indonesia sengsara😢",koruptor,LAW,legal_terms,1.0,71,79
+6,7,Biangkeroknya tangkap! Tapi siapa yang bisa nangkap???😢 semoga Tuhan memberikan hidajah untuk orang2 jujur. Aamiin,Tuhan,REG,religion_terms,1.0,63,68
+7,8,Yg Korupsi MBG tuh...di Hukum Mati,Korupsi,LAW,legal_terms,1.0,3,10
+7,8,Yg Korupsi MBG tuh...di Hukum Mati,Hukum,LAW,legal_terms,1.0,24,29
+10,11,"Gilaaaaaaaa😢😢😢😢😢, ya Allah azab orang-orang yg zholim",Allah,REG,religion_terms,1.0,21,26
+12,13,"pengadilan akhirat pasti ada, tunggu aja jokowi",jokowi,PER,person_jokowi,1.0,41,47
+12,13,"pengadilan akhirat pasti ada, tunggu aja jokowi",pengadilan,LAW,legal_terms,1.0,0,10
+14,15,"Saya sebagai orang awam biasa berfikir sederhana begini ya ""mana mungkin orang yg punya aplikasi sebesar Gojek bisa korupsi milyaran. Pasti yg dibawah nya yg ngabisin Pak Nadiem yg kena getah nya😢",Nadiem,PER,person_nadiem,1.0,171,177
+14,15,"Saya sebagai orang awam biasa berfikir sederhana begini ya ""mana mungkin orang yg punya aplikasi sebesar Gojek bisa korupsi milyaran. Pasti yg dibawah nya yg ngabisin Pak Nadiem yg kena getah nya😢",Gojek,ORG,org_gojek,1.0,105,110
+14,15,"Saya sebagai orang awam biasa berfikir sederhana begini ya ""mana mungkin orang yg punya aplikasi sebesar Gojek bisa korupsi milyaran. Pasti yg dibawah nya yg ngabisin Pak Nadiem yg kena getah nya😢",korupsi,LAW,legal_terms,1.0,116,123
+15,16,Alloohu akbar ..... Tunjukkan keadilanMu di bumi negriku tercinta yaa Alloh,Alloh,REG,religion_terms,1.0,70,75
+16,17,"Knp harus korupsi pak ??
+
+Ga mungkin deh pak kalau ga punya 809 M .. 
+Omset bapa dr gojek aja sudah pastantis
+Selama jadi mentri berapa T apbn di kelola pak yang di jadikan proyek , 
+
+Dan g mungkin kontraktor tersebut bener bener 100 persen orang lain tidak ada sey hello dengan bapa",gojek,ORG,org_gojek,1.0,84,89
+16,17,"Knp harus korupsi pak ??
+
+Ga mungkin deh pak kalau ga punya 809 M .. 
+Omset bapa dr gojek aja sudah pastantis
+Selama jadi mentri berapa T apbn di kelola pak yang di jadikan proyek , 
+
+Dan g mungkin kontraktor tersebut bener bener 100 persen orang lain tidak ada sey hello dengan bapa",korupsi,LAW,legal_terms,1.0,10,17
+16,17,"Knp harus korupsi pak ??
+
+Ga mungkin deh pak kalau ga punya 809 M .. 
+Omset bapa dr gojek aja sudah pastantis
+Selama jadi mentri berapa T apbn di kelola pak yang di jadikan proyek , 
+
+Dan g mungkin kontraktor tersebut bener bener 100 persen orang lain tidak ada sey hello dengan bapa",100 persen,QTY,quantity_terms,1.0,230,240
+20,21,"Duit Anggaran pak Nadim harus tau , duitnya di pake apa atau di pake siapa klo tidak bisa menjelaskan ya repot pak",Nadim,PER,person_nadiem,1.0,18,23
+21,22,Para HAKIM DZOLIM PASTI DILAKNAT ALLOH DIDUNIA DAN AKHIRAT ITU PASTI,HAKIM,LAW,legal_terms,1.0,5,10
+21,22,Para HAKIM DZOLIM PASTI DILAKNAT ALLOH DIDUNIA DAN AKHIRAT ITU PASTI,ALLOH,REG,religion_terms,1.0,33,38
+25,26,saya yakin bpk nadim itu difitnah,nadim,PER,person_nadiem,1.0,15,20
+27,28,Makannya jangan korupsi bang,korupsi,LAW,legal_terms,1.0,16,23
+29,30,"Korban keganasan Jokowi..., Yaqut nyebut Jokowi, dan banyak koruptor yg tertangkap mentangkutkn Jokowi tapi K Oooo K tidak punya nyali nangkap Jokowi",Jokowi,PER,person_jokowi,1.0,17,23
+29,30,"Korban keganasan Jokowi..., Yaqut nyebut Jokowi, dan banyak koruptor yg tertangkap mentangkutkn Jokowi tapi K Oooo K tidak punya nyali nangkap Jokowi",Jokowi,PER,person_jokowi,1.0,41,47
+29,30,"Korban keganasan Jokowi..., Yaqut nyebut Jokowi, dan banyak koruptor yg tertangkap mentangkutkn Jokowi tapi K Oooo K tidak punya nyali nangkap Jokowi",Jokowi,PER,person_jokowi,1.0,96,102
+29,30,"Korban keganasan Jokowi..., Yaqut nyebut Jokowi, dan banyak koruptor yg tertangkap mentangkutkn Jokowi tapi K Oooo K tidak punya nyali nangkap Jokowi",Jokowi,PER,person_jokowi,1.0,143,149
+29,30,"Korban keganasan Jokowi..., Yaqut nyebut Jokowi, dan banyak koruptor yg tertangkap mentangkutkn Jokowi tapi K Oooo K tidak punya nyali nangkap Jokowi",koruptor,LAW,legal_terms,1.0,60,68
+31,32,Ini pasti sudah akal2lan jokowi dan wowo semua ini kalau orang benar trus pasti akan di singkirkan mereka takut nanti buat manen hasil2 besar takut ada yg ngintip dari belakng,jokowi,PER,person_jokowi,1.0,25,31
+32,33,Baklawi gembong korupsi,korupsi,LAW,legal_terms,1.0,16,23
+33,34,"Semua yang terlibat membuat sekenario menjijikkan ini, beserta seluruh keluarganya akan mendapatkan azab yang lebih menyedihkan dari Allah SWT. Aamiin.",Allah,REG,religion_terms,1.0,133,138
+34,35,Ngeri dengan hukum di indonesia,indonesia,GPE,geo_indonesia,1.0,22,31
+34,35,Ngeri dengan hukum di indonesia,hukum,LAW,legal_terms,1.0,13,18
+36,37,Kasihan Nadiem..dia korban dari Jokowi..kesalahan Nadiem kenapa dia mau menjadi menteri..,Nadiem,PER,person_nadiem,1.0,8,14
+36,37,Kasihan Nadiem..dia korban dari Jokowi..kesalahan Nadiem kenapa dia mau menjadi menteri..,Nadiem,PER,person_nadiem,1.0,50,56
+36,37,Kasihan Nadiem..dia korban dari Jokowi..kesalahan Nadiem kenapa dia mau menjadi menteri..,Jokowi,PER,person_jokowi,1.0,32,38
+37,38,"Semua orang muslim yg ada di muka bumi ini percaya dan meyakini ada waktu pembalasan yg sangat adil dan rinci di mana tidak akan bisa di tutupi walau hanya sebutir pasir besarnya,ada waktunya hari pembalasan di mana mahluk yg di zdolimi akan menjadi saksi sari ujung rambut hingga ujung kaki kecuali mulut akan allah tutup dan percayalah hari pembalasan akan pasti tiba untuk mempertanggung jawabkan dalam qta berada di dunia dari awal qta lahir sampai menutup usia. . .
+Allah SWT akan adil dan akan slalu adil maha suci allah dengan segala firmannya",allah,REG,religion_terms,1.0,311,316
+37,38,"Semua orang muslim yg ada di muka bumi ini percaya dan meyakini ada waktu pembalasan yg sangat adil dan rinci di mana tidak akan bisa di tutupi walau hanya sebutir pasir besarnya,ada waktunya hari pembalasan di mana mahluk yg di zdolimi akan menjadi saksi sari ujung rambut hingga ujung kaki kecuali mulut akan allah tutup dan percayalah hari pembalasan akan pasti tiba untuk mempertanggung jawabkan dalam qta berada di dunia dari awal qta lahir sampai menutup usia. . .
+Allah SWT akan adil dan akan slalu adil maha suci allah dengan segala firmannya",Allah,REG,religion_terms,1.0,471,476
+37,38,"Semua orang muslim yg ada di muka bumi ini percaya dan meyakini ada waktu pembalasan yg sangat adil dan rinci di mana tidak akan bisa di tutupi walau hanya sebutir pasir besarnya,ada waktunya hari pembalasan di mana mahluk yg di zdolimi akan menjadi saksi sari ujung rambut hingga ujung kaki kecuali mulut akan allah tutup dan percayalah hari pembalasan akan pasti tiba untuk mempertanggung jawabkan dalam qta berada di dunia dari awal qta lahir sampai menutup usia. . .
+Allah SWT akan adil dan akan slalu adil maha suci allah dengan segala firmannya",allah,REG,religion_terms,1.0,521,526
+38,39,"Hukum buatan manusia tak mungkin melahirkan keadilan. Terapkan hukum buatan Allah, buahkan maslahat bg umat manusia",Hukum,LAW,legal_terms,1.0,0,5
+38,39,"Hukum buatan manusia tak mungkin melahirkan keadilan. Terapkan hukum buatan Allah, buahkan maslahat bg umat manusia",hukum,LAW,legal_terms,1.0,63,68
+38,39,"Hukum buatan manusia tak mungkin melahirkan keadilan. Terapkan hukum buatan Allah, buahkan maslahat bg umat manusia",Allah,REG,religion_terms,1.0,76,81
+39,40,"Kita punya Tuhan Pak, berdoa saja. Jika Bapak memang tak bersalah, siapapun yang menjerat Bapak tak akan lepas dari pengadilan Tuhan. Percayalah Pak, jika kita baik dan tak salah, Tuhan juga tak akan melepaskan siapapun yang menjahati orang baik dengan sengaja. Semua  manusia akan mati pada waktunya, akan ada pertanggung jawaban akhirat yang tak akan selesai walaupun tiap hari mereka minta ampun siang malam. Karena siapapun  yang  sengaja menjerat orang  baik yang tak bersalah, mereka sesungguhnya sedang mempermainkan Tuhan. Yang sabar ya Pak, tetaplah yakin dan berdoa, Tuhan akan memuaskanmu dengan keadilanNya pada waktuNya.",pengadilan,LAW,legal_terms,1.0,116,126
+39,40,"Kita punya Tuhan Pak, berdoa saja. Jika Bapak memang tak bersalah, siapapun yang menjerat Bapak tak akan lepas dari pengadilan Tuhan. Percayalah Pak, jika kita baik dan tak salah, Tuhan juga tak akan melepaskan siapapun yang menjahati orang baik dengan sengaja. Semua  manusia akan mati pada waktunya, akan ada pertanggung jawaban akhirat yang tak akan selesai walaupun tiap hari mereka minta ampun siang malam. Karena siapapun  yang  sengaja menjerat orang  baik yang tak bersalah, mereka sesungguhnya sedang mempermainkan Tuhan. Yang sabar ya Pak, tetaplah yakin dan berdoa, Tuhan akan memuaskanmu dengan keadilanNya pada waktuNya.",Tuhan,REG,religion_terms,1.0,11,16
+39,40,"Kita punya Tuhan Pak, berdoa saja. Jika Bapak memang tak bersalah, siapapun yang menjerat Bapak tak akan lepas dari pengadilan Tuhan. Percayalah Pak, jika kita baik dan tak salah, Tuhan juga tak akan melepaskan siapapun yang menjahati orang baik dengan sengaja. Semua  manusia akan mati pada waktunya, akan ada pertanggung jawaban akhirat yang tak akan selesai walaupun tiap hari mereka minta ampun siang malam. Karena siapapun  yang  sengaja menjerat orang  baik yang tak bersalah, mereka sesungguhnya sedang mempermainkan Tuhan. Yang sabar ya Pak, tetaplah yakin dan berdoa, Tuhan akan memuaskanmu dengan keadilanNya pada waktuNya.",Tuhan,REG,religion_terms,1.0,127,132
+39,40,"Kita punya Tuhan Pak, berdoa saja. Jika Bapak memang tak bersalah, siapapun yang menjerat Bapak tak akan lepas dari pengadilan Tuhan. Percayalah Pak, jika kita baik dan tak salah, Tuhan juga tak akan melepaskan siapapun yang menjahati orang baik dengan sengaja. Semua  manusia akan mati pada waktunya, akan ada pertanggung jawaban akhirat yang tak akan selesai walaupun tiap hari mereka minta ampun siang malam. Karena siapapun  yang  sengaja menjerat orang  baik yang tak bersalah, mereka sesungguhnya sedang mempermainkan Tuhan. Yang sabar ya Pak, tetaplah yakin dan berdoa, Tuhan akan memuaskanmu dengan keadilanNya pada waktuNya.",Tuhan,REG,religion_terms,1.0,180,185
+39,40,"Kita punya Tuhan Pak, berdoa saja. Jika Bapak memang tak bersalah, siapapun yang menjerat Bapak tak akan lepas dari pengadilan Tuhan. Percayalah Pak, jika kita baik dan tak salah, Tuhan juga tak akan melepaskan siapapun yang menjahati orang baik dengan sengaja. Semua  manusia akan mati pada waktunya, akan ada pertanggung jawaban akhirat yang tak akan selesai walaupun tiap hari mereka minta ampun siang malam. Karena siapapun  yang  sengaja menjerat orang  baik yang tak bersalah, mereka sesungguhnya sedang mempermainkan Tuhan. Yang sabar ya Pak, tetaplah yakin dan berdoa, Tuhan akan memuaskanmu dengan keadilanNya pada waktuNya.",Tuhan,REG,religion_terms,1.0,524,529
+39,40,"Kita punya Tuhan Pak, berdoa saja. Jika Bapak memang tak bersalah, siapapun yang menjerat Bapak tak akan lepas dari pengadilan Tuhan. Percayalah Pak, jika kita baik dan tak salah, Tuhan juga tak akan melepaskan siapapun yang menjahati orang baik dengan sengaja. Semua  manusia akan mati pada waktunya, akan ada pertanggung jawaban akhirat yang tak akan selesai walaupun tiap hari mereka minta ampun siang malam. Karena siapapun  yang  sengaja menjerat orang  baik yang tak bersalah, mereka sesungguhnya sedang mempermainkan Tuhan. Yang sabar ya Pak, tetaplah yakin dan berdoa, Tuhan akan memuaskanmu dengan keadilanNya pada waktuNya.",Tuhan,REG,religion_terms,1.0,577,582
+40,41,Ya Allah,Allah,REG,religion_terms,1.0,3,8
+41,42,Baru tau kan lu Jokowi itu tukang ngibul😂,Jokowi,PER,person_jokowi,1.0,16,22
+42,43,"Hakim zolim sabar ya pak nadim allah bersama bpk nadim, insaallah pak nadim akan bebas.",nadim,PER,person_nadiem,1.0,25,30
+42,43,"Hakim zolim sabar ya pak nadim allah bersama bpk nadim, insaallah pak nadim akan bebas.",nadim,PER,person_nadiem,1.0,49,54
+42,43,"Hakim zolim sabar ya pak nadim allah bersama bpk nadim, insaallah pak nadim akan bebas.",nadim,PER,person_nadiem,1.0,70,75
+42,43,"Hakim zolim sabar ya pak nadim allah bersama bpk nadim, insaallah pak nadim akan bebas.",Hakim,LAW,legal_terms,1.0,0,5
+42,43,"Hakim zolim sabar ya pak nadim allah bersama bpk nadim, insaallah pak nadim akan bebas.",allah,REG,religion_terms,1.0,31,36
+45,46,Hukum sdh mandul tinggal rakyat yg menegakkan hukum,Hukum,LAW,legal_terms,1.0,0,5
+45,46,Hukum sdh mandul tinggal rakyat yg menegakkan hukum,hukum,LAW,legal_terms,1.0,46,51
+46,47,Sungguh mengerikan hukum dinegri ini. Smg jaksa dan hakimnya dapat karma.,hukum,LAW,legal_terms,1.0,19,24
+46,47,Sungguh mengerikan hukum dinegri ini. Smg jaksa dan hakimnya dapat karma.,jaksa,LAW,legal_terms,1.0,42,47
+47,48,"Orang pintar, punya niat Ingin merubah dan memperbaiki negri ini!
+ Lebih baik skip aja dah! Percuma! Negara udah bobrok! Rakyat di paksa bodoh! Hasilnya yg punya niat baik bakalan di bungkam! Penjara atau MATI! Cuma itu pilihanya!",Penjara,LAW,legal_terms,1.0,192,199
+48,49,Korban jokowi,jokowi,PER,person_jokowi,1.0,7,13
+50,51,Uang negara yang hilang bukan dikorupsi sama Pak Nadiem tetapi sama tuyul dan genderuwo 💀,Nadiem,PER,person_nadiem,1.0,49,55
+51,52,Haqul Yaqin Allah pasti menolong mu pak Nadiem 🤲🤲🤲,Nadiem,PER,person_nadiem,1.0,40,46
+51,52,Haqul Yaqin Allah pasti menolong mu pak Nadiem 🤲🤲🤲,Allah,REG,religion_terms,1.0,12,17
+52,53,"mas nadiem daya yakin tidak korupsi, hanya sial aja  ngasih spek laptopnya harus pakai chroom book. ini kan masalah yang membuat kompetitor murka. dan kompetitor ini kalau cuman 100 m per jaksa atau hakim itu kecil. itulah resiko",nadiem,PER,person_nadiem,1.0,4,10
+52,53,"mas nadiem daya yakin tidak korupsi, hanya sial aja  ngasih spek laptopnya harus pakai chroom book. ini kan masalah yang membuat kompetitor murka. dan kompetitor ini kalau cuman 100 m per jaksa atau hakim itu kecil. itulah resiko",korupsi,LAW,legal_terms,1.0,28,35
+52,53,"mas nadiem daya yakin tidak korupsi, hanya sial aja  ngasih spek laptopnya harus pakai chroom book. ini kan masalah yang membuat kompetitor murka. dan kompetitor ini kalau cuman 100 m per jaksa atau hakim itu kecil. itulah resiko",jaksa,LAW,legal_terms,1.0,188,193
+52,53,"mas nadiem daya yakin tidak korupsi, hanya sial aja  ngasih spek laptopnya harus pakai chroom book. ini kan masalah yang membuat kompetitor murka. dan kompetitor ini kalau cuman 100 m per jaksa atau hakim itu kecil. itulah resiko",hakim,LAW,legal_terms,1.0,199,204
+55,56,Mulyono dan keluarganya pasti senyam senyum.... 11 ribu T gitu loh....😅,Mulyono,PER,person_jokowi,1.0,0,7
+55,56,Mulyono dan keluarganya pasti senyam senyum.... 11 ribu T gitu loh....😅,11 ribu,MON,money_terms,1.0,48,55
+56,57,"Nadiem bukan orang politik, tapi beliau mau menerima tawaran Mentri, mau tidak mau beliau ada dalam lingkaran politik, begitulah pola politik negeri konoha",Nadiem,PER,person_nadiem,1.0,0,6
+57,58,Seharusnya mulyono jokowi yg di vonis penjara karena ulah dia semua biang kerok permasalahan di negeri ini,mulyono,PER,person_jokowi,1.0,11,18
+57,58,Seharusnya mulyono jokowi yg di vonis penjara karena ulah dia semua biang kerok permasalahan di negeri ini,jokowi,PER,person_jokowi,1.0,19,25
+57,58,Seharusnya mulyono jokowi yg di vonis penjara karena ulah dia semua biang kerok permasalahan di negeri ini,vonis,LAW,legal_terms,1.0,32,37
+57,58,Seharusnya mulyono jokowi yg di vonis penjara karena ulah dia semua biang kerok permasalahan di negeri ini,penjara,LAW,legal_terms,1.0,38,45
+58,59,"Semangat pak Nadin, semoga hukum Tuhan  akan menghukum siapa pun yg zolim",hukum,LAW,legal_terms,1.0,27,32
+58,59,"Semangat pak Nadin, semoga hukum Tuhan  akan menghukum siapa pun yg zolim",Tuhan,REG,religion_terms,1.0,33,38
+59,60,"Rp,809 miliar Banyak Banget, pak",809 miliar,MON,money_terms,1.0,3,13
+60,61,"Sedangkan yg memberikan arah kebijakan msih brkeliaran main raja""an..KNPA GK di seret ke pengadilan utk di mintak kterangan KLO bisa di skalian di vonis",pengadilan,LAW,legal_terms,1.0,89,99
+60,61,"Sedangkan yg memberikan arah kebijakan msih brkeliaran main raja""an..KNPA GK di seret ke pengadilan utk di mintak kterangan KLO bisa di skalian di vonis",vonis,LAW,legal_terms,1.0,147,152
+61,62,"Kasus nya makarim apa ? 
+
+INDOSURYA YANG MERAMPOK UANG KORBAN 16,3 triliun dan serara keseluruhan dari 23 ribu nasabahnya total 106 triliun. 
+
+Tapj Mahkamah Agung menjatuhkan vonis 18 tahun penjara dan denda hanya Rp15 miliar kepada pimpinan Koperasi Simpan Pinjam (KSP) Indosurya, Henry Surya, yang diduga merugikan 23 ribu orang, dengan total kerugian disebut mencapai Rp106 triliun
+
+
+Dan saat ini uang dan aset yg masih ada blm jelas kapan akan di kembalikan kepada para korban.",vonis,LAW,legal_terms,1.0,175,180
+61,62,"Kasus nya makarim apa ? 
+
+INDOSURYA YANG MERAMPOK UANG KORBAN 16,3 triliun dan serara keseluruhan dari 23 ribu nasabahnya total 106 triliun. 
+
+Tapj Mahkamah Agung menjatuhkan vonis 18 tahun penjara dan denda hanya Rp15 miliar kepada pimpinan Koperasi Simpan Pinjam (KSP) Indosurya, Henry Surya, yang diduga merugikan 23 ribu orang, dengan total kerugian disebut mencapai Rp106 triliun
+
+
+Dan saat ini uang dan aset yg masih ada blm jelas kapan akan di kembalikan kepada para korban.",penjara,LAW,legal_terms,1.0,190,197
+61,62,"Kasus nya makarim apa ? 
+
+INDOSURYA YANG MERAMPOK UANG KORBAN 16,3 triliun dan serara keseluruhan dari 23 ribu nasabahnya total 106 triliun. 
+
+Tapj Mahkamah Agung menjatuhkan vonis 18 tahun penjara dan denda hanya Rp15 miliar kepada pimpinan Koperasi Simpan Pinjam (KSP) Indosurya, Henry Surya, yang diduga merugikan 23 ribu orang, dengan total kerugian disebut mencapai Rp106 triliun
+
+
+Dan saat ini uang dan aset yg masih ada blm jelas kapan akan di kembalikan kepada para korban.",denda,LAW,legal_terms,1.0,202,207
+61,62,"Kasus nya makarim apa ? 
+
+INDOSURYA YANG MERAMPOK UANG KORBAN 16,3 triliun dan serara keseluruhan dari 23 ribu nasabahnya total 106 triliun. 
+
+Tapj Mahkamah Agung menjatuhkan vonis 18 tahun penjara dan denda hanya Rp15 miliar kepada pimpinan Koperasi Simpan Pinjam (KSP) Indosurya, Henry Surya, yang diduga merugikan 23 ribu orang, dengan total kerugian disebut mencapai Rp106 triliun
+
+
+Dan saat ini uang dan aset yg masih ada blm jelas kapan akan di kembalikan kepada para korban.",23 ribu,MON,money_terms,1.0,103,110
+61,62,"Kasus nya makarim apa ? 
+
+INDOSURYA YANG MERAMPOK UANG KORBAN 16,3 triliun dan serara keseluruhan dari 23 ribu nasabahnya total 106 triliun. 
+
+Tapj Mahkamah Agung menjatuhkan vonis 18 tahun penjara dan denda hanya Rp15 miliar kepada pimpinan Koperasi Simpan Pinjam (KSP) Indosurya, Henry Surya, yang diduga merugikan 23 ribu orang, dengan total kerugian disebut mencapai Rp106 triliun
+
+
+Dan saat ini uang dan aset yg masih ada blm jelas kapan akan di kembalikan kepada para korban.",Rp15,MON,money_terms,1.0,214,218
+61,62,"Kasus nya makarim apa ? 
+
+INDOSURYA YANG MERAMPOK UANG KORBAN 16,3 triliun dan serara keseluruhan dari 23 ribu nasabahnya total 106 triliun. 
+
+Tapj Mahkamah Agung menjatuhkan vonis 18 tahun penjara dan denda hanya Rp15 miliar kepada pimpinan Koperasi Simpan Pinjam (KSP) Indosurya, Henry Surya, yang diduga merugikan 23 ribu orang, dengan total kerugian disebut mencapai Rp106 triliun
+
+
+Dan saat ini uang dan aset yg masih ada blm jelas kapan akan di kembalikan kepada para korban.",23 ribu,MON,money_terms,1.0,317,324
+61,62,"Kasus nya makarim apa ? 
+
+INDOSURYA YANG MERAMPOK UANG KORBAN 16,3 triliun dan serara keseluruhan dari 23 ribu nasabahnya total 106 triliun. 
+
+Tapj Mahkamah Agung menjatuhkan vonis 18 tahun penjara dan denda hanya Rp15 miliar kepada pimpinan Koperasi Simpan Pinjam (KSP) Indosurya, Henry Surya, yang diduga merugikan 23 ribu orang, dengan total kerugian disebut mencapai Rp106 triliun
+
+
+Dan saat ini uang dan aset yg masih ada blm jelas kapan akan di kembalikan kepada para korban.",Rp106,MON,money_terms,1.0,371,376
+61,62,"Kasus nya makarim apa ? 
+
+INDOSURYA YANG MERAMPOK UANG KORBAN 16,3 triliun dan serara keseluruhan dari 23 ribu nasabahnya total 106 triliun. 
+
+Tapj Mahkamah Agung menjatuhkan vonis 18 tahun penjara dan denda hanya Rp15 miliar kepada pimpinan Koperasi Simpan Pinjam (KSP) Indosurya, Henry Surya, yang diduga merugikan 23 ribu orang, dengan total kerugian disebut mencapai Rp106 triliun
+
+
+Dan saat ini uang dan aset yg masih ada blm jelas kapan akan di kembalikan kepada para korban.",18 tahun,QTY,quantity_terms,1.0,181,189
+63,64,"Drama aja, lantas kalau tidak keluar dari pt akap goto lalu darimana keluarnya? Dan gmn caranya itu bisa menyentuh, dapatkan dan terima sama Nadiem?",Nadiem,PER,person_nadiem,1.0,141,147
+63,64,"Drama aja, lantas kalau tidak keluar dari pt akap goto lalu darimana keluarnya? Dan gmn caranya itu bisa menyentuh, dapatkan dan terima sama Nadiem?",goto,ORG,org_gojek,1.0,50,54
+64,65,Jadi tumbal Jokowi 😂,Jokowi,PER,person_jokowi,1.0,12,18
+66,67,tuntut harus berat biar kapok koruptor😂😂,koruptor,LAW,legal_terms,1.0,30,38
+67,68,"Begitu besar jasa Nadiem untuk Pendidikan Indonesia...itu jelas , tidak bisa dipungkiri... semoga hukum bicara lebih baik lebih adil.
+Nadiem... semoga Allah SWT selalu melindungi & menolongmu.",Nadiem,PER,person_nadiem,1.0,18,24
+67,68,"Begitu besar jasa Nadiem untuk Pendidikan Indonesia...itu jelas , tidak bisa dipungkiri... semoga hukum bicara lebih baik lebih adil.
+Nadiem... semoga Allah SWT selalu melindungi & menolongmu.",Nadiem,PER,person_nadiem,1.0,134,140
+67,68,"Begitu besar jasa Nadiem untuk Pendidikan Indonesia...itu jelas , tidak bisa dipungkiri... semoga hukum bicara lebih baik lebih adil.
+Nadiem... semoga Allah SWT selalu melindungi & menolongmu.",Indonesia,GPE,geo_indonesia,1.0,42,51
+67,68,"Begitu besar jasa Nadiem untuk Pendidikan Indonesia...itu jelas , tidak bisa dipungkiri... semoga hukum bicara lebih baik lebih adil.
+Nadiem... semoga Allah SWT selalu melindungi & menolongmu.",hukum,LAW,legal_terms,1.0,98,103
+67,68,"Begitu besar jasa Nadiem untuk Pendidikan Indonesia...itu jelas , tidak bisa dipungkiri... semoga hukum bicara lebih baik lebih adil.
+Nadiem... semoga Allah SWT selalu melindungi & menolongmu.",Allah,REG,religion_terms,1.0,151,156
+71,72,Hukum sudah gila,Hukum,LAW,legal_terms,1.0,0,5
+72,73,Goo block banget penegak hukum nya,hukum,LAW,legal_terms,1.0,25,30
+73,74,Bajingannya sdh pasti RAJA BUAL BUAL SANG PENIPU MULYONO CS😂😂😂,MULYONO,PER,person_jokowi,1.0,49,56
+75,76,"Mas nadim itu orang cerdas, orang pinter...",nadim,PER,person_nadiem,1.0,4,9
+76,77,Bebaskan Nadiem & adili Jokowi,Nadiem,PER,person_nadiem,1.0,9,15
+76,77,Bebaskan Nadiem & adili Jokowi,Jokowi,PER,person_jokowi,1.0,24,30
+77,78,Sabar ya Pa Nadim...,Nadim,PER,person_nadiem,1.0,12,17
+79,80,Bukan bela siapa siapa. Korupsi sekecil apapun pejabat semua ya sudah rakyat muak berita apapun.entah korupsi entah playing victim. Rakyat tetap bayar pajak dan tidak dapat apa apa😅,Korupsi,LAW,legal_terms,1.0,24,31
+79,80,Bukan bela siapa siapa. Korupsi sekecil apapun pejabat semua ya sudah rakyat muak berita apapun.entah korupsi entah playing victim. Rakyat tetap bayar pajak dan tidak dapat apa apa😅,korupsi,LAW,legal_terms,1.0,102,109
+80,81,Selama hakim msh manusia tidak menutup kemungkinan msh disetiri.,hakim,LAW,legal_terms,1.0,7,12
+81,82,"Udah cocok jdi bos ojol.. Malah msuk politik,,",ojol,ORG,org_gojek,1.0,19,23
+83,84,Tumbal kelicikan Mulyono,Mulyono,PER,person_jokowi,1.0,17,24
+85,86,Ya alloh serem  jadi  pegawai,alloh,REG,religion_terms,1.0,3,8
+87,88,"Kau kn Mentri 
+Kasus besar GK mungkin hakim aneh2 zolim 
+Kecuali Jokowi berkuasa",Jokowi,PER,person_jokowi,1.0,65,71
+87,88,"Kau kn Mentri 
+Kasus besar GK mungkin hakim aneh2 zolim 
+Kecuali Jokowi berkuasa",hakim,LAW,legal_terms,1.0,38,43
+92,93,"akan ada ke ajaiban pa nadiem, tenang saja,rakyat indonesia udah tau ko,semangat merdeka",nadiem,PER,person_nadiem,1.0,23,29
+92,93,"akan ada ke ajaiban pa nadiem, tenang saja,rakyat indonesia udah tau ko,semangat merdeka",indonesia,GPE,geo_indonesia,1.0,50,59
+94,95,Makanya KLO Uda jd pengusaha jgn mau di iming iming JD menteri atau pejabat di negeri ini...di buat tumbal di masukin penjara...sadis negeri ini pejabat nya kebanyakan penjahat,penjara,LAW,legal_terms,1.0,118,125
+98,99,"Kolekan ayo, gocap pertama ni buat Nadiem🖐️",Nadiem,PER,person_nadiem,1.0,35,41
+99,100,"Tuhan Maha Tahu , Allah SWT tidak tidur bencana akan datang untuk para penjahat",Tuhan,REG,religion_terms,1.0,0,5
+99,100,"Tuhan Maha Tahu , Allah SWT tidak tidur bencana akan datang untuk para penjahat",Allah,REG,religion_terms,1.0,18,23
+100,101,"Tidak selayakny hakim disbut 'yang mulia' atau 'wakil tuhan', terlalu memuji profesi. lebih baik dipanggil pak / bu hakim saja.. apalgi pd negara yg sdg penegakan hukumny 'bobrok'... ataukah memang karakter bangsa ini sebenarny memang 'bobrok' ??!!!",hakim,LAW,legal_terms,1.0,16,21
+100,101,"Tidak selayakny hakim disbut 'yang mulia' atau 'wakil tuhan', terlalu memuji profesi. lebih baik dipanggil pak / bu hakim saja.. apalgi pd negara yg sdg penegakan hukumny 'bobrok'... ataukah memang karakter bangsa ini sebenarny memang 'bobrok' ??!!!",hakim,LAW,legal_terms,1.0,116,121
+100,101,"Tidak selayakny hakim disbut 'yang mulia' atau 'wakil tuhan', terlalu memuji profesi. lebih baik dipanggil pak / bu hakim saja.. apalgi pd negara yg sdg penegakan hukumny 'bobrok'... ataukah memang karakter bangsa ini sebenarny memang 'bobrok' ??!!!",tuhan,REG,religion_terms,1.0,54,59
+102,103,Kena jebakan dewanya termul2 ... Nadiem hrs menanggung risikonya,Nadiem,PER,person_nadiem,1.0,33,39
+103,104,"Yg membela korupsi otaknya dimana.
+Orang korupsi kok klarifikasi,gk malu..",korupsi,LAW,legal_terms,1.0,11,18
+103,104,"Yg membela korupsi otaknya dimana.
+Orang korupsi kok klarifikasi,gk malu..",korupsi,LAW,legal_terms,1.0,41,48
+104,105,kelihatan tampang yang bukan korupsi.... dari muka aja sudah bisa terbaca tak perlu bukti,korupsi,LAW,legal_terms,1.0,29,36
+104,105,kelihatan tampang yang bukan korupsi.... dari muka aja sudah bisa terbaca tak perlu bukti,bukti,LAW,legal_terms,1.0,84,89
+105,106,Nadim jd tumbal,Nadim,PER,person_nadiem,1.0,0,5
+106,107,LAKNATULLAH PARA PENGUASA & PARA PENGADILAN INDONESIA,INDONESIA,GPE,geo_indonesia,1.0,44,53
+106,107,LAKNATULLAH PARA PENGUASA & PARA PENGADILAN INDONESIA,PENGADILAN,LAW,legal_terms,1.0,33,43
+107,108,"Ingat para hakjm jgn membela yg salah, bsk anda  blom tau masih hidup, mulyono itu yg hrs di adili jg krn menjalankan perintah mulyono laknat itu.",mulyono,PER,person_jokowi,1.0,71,78
+107,108,"Ingat para hakjm jgn membela yg salah, bsk anda  blom tau masih hidup, mulyono itu yg hrs di adili jg krn menjalankan perintah mulyono laknat itu.",mulyono,PER,person_jokowi,1.0,127,134
+110,111,"Sesungguhnya kehidupan dunia ini hanyalah panggung sandiwara dan setiap manusia (tubuh jasmani) menjalankan peran sesuai dengan ketetapan yang tertulis di kitab takdir (Lauhul Mahfud). Setiap manusia harus sadar bahwa diri sejatinya bukanlah tubuh jasmani beserta akal pikiran dan perasaannya melainkan Aku. Siapakah Aku? 
+""Sesungguhnya Aku adalah Allah. Tidak ada Tuhan selain Aku maka sembahlah Aku dan dirikanlah shalat untuk mengingat Aku."" QS Thaha ayat 14.
+Bila engkau berperan sebagai penyaksi (peran ruh) panggung permainan selama engkau menjalani kehidupan dunia maka engkau akan senantiasa bahagia dan tidak punya penderitaan.
+Sebaliknya bila engkau berperan sebagai aktor pelaku di atas panggung (peran tubuh jasmani beserta akal pikiran dan perasaannya), maka engkau akan selalu menghadapi berbagai masalah dan derita.
+Semoga melalui kesulitan yang dialami oleh tubuh jasmani beserta akal pikiran dan perasaannya, Nadiem dapat kembali ingat siapa diri sejatinya.
+                    Salam ENJOY ❤❤❤",Nadiem,PER,person_nadiem,1.0,926,932
+110,111,"Sesungguhnya kehidupan dunia ini hanyalah panggung sandiwara dan setiap manusia (tubuh jasmani) menjalankan peran sesuai dengan ketetapan yang tertulis di kitab takdir (Lauhul Mahfud). Setiap manusia harus sadar bahwa diri sejatinya bukanlah tubuh jasmani beserta akal pikiran dan perasaannya melainkan Aku. Siapakah Aku? 
+""Sesungguhnya Aku adalah Allah. Tidak ada Tuhan selain Aku maka sembahlah Aku dan dirikanlah shalat untuk mengingat Aku."" QS Thaha ayat 14.
+Bila engkau berperan sebagai penyaksi (peran ruh) panggung permainan selama engkau menjalani kehidupan dunia maka engkau akan senantiasa bahagia dan tidak punya penderitaan.
+Sebaliknya bila engkau berperan sebagai aktor pelaku di atas panggung (peran tubuh jasmani beserta akal pikiran dan perasaannya), maka engkau akan selalu menghadapi berbagai masalah dan derita.
+Semoga melalui kesulitan yang dialami oleh tubuh jasmani beserta akal pikiran dan perasaannya, Nadiem dapat kembali ingat siapa diri sejatinya.
+                    Salam ENJOY ❤❤❤",Allah,REG,religion_terms,1.0,348,353
+110,111,"Sesungguhnya kehidupan dunia ini hanyalah panggung sandiwara dan setiap manusia (tubuh jasmani) menjalankan peran sesuai dengan ketetapan yang tertulis di kitab takdir (Lauhul Mahfud). Setiap manusia harus sadar bahwa diri sejatinya bukanlah tubuh jasmani beserta akal pikiran dan perasaannya melainkan Aku. Siapakah Aku? 
+""Sesungguhnya Aku adalah Allah. Tidak ada Tuhan selain Aku maka sembahlah Aku dan dirikanlah shalat untuk mengingat Aku."" QS Thaha ayat 14.
+Bila engkau berperan sebagai penyaksi (peran ruh) panggung permainan selama engkau menjalani kehidupan dunia maka engkau akan senantiasa bahagia dan tidak punya penderitaan.
+Sebaliknya bila engkau berperan sebagai aktor pelaku di atas panggung (peran tubuh jasmani beserta akal pikiran dan perasaannya), maka engkau akan selalu menghadapi berbagai masalah dan derita.
+Semoga melalui kesulitan yang dialami oleh tubuh jasmani beserta akal pikiran dan perasaannya, Nadiem dapat kembali ingat siapa diri sejatinya.
+                    Salam ENJOY ❤❤❤",Tuhan,REG,religion_terms,1.0,365,370
+111,112,Mengalir ke yg nyuruhnya dn kita tau siapa dia makanya dia bikin partai dn berlimpah uang .biadab pak Nadim JD tumbal keluarga itu.,Nadim,PER,person_nadiem,1.0,102,107
+112,113,"Penyesalan Nadim yg akan diingat seumur hidupnya adalah kesalahan terbesar saat menerima tawaran menjadi menteri......
+
+Maka jgn heran jika kedepannya akan banyak orang terdidik ,orang pintar yg akan pindah kewarganegaraan mengabdikan dirinya di luar negri...",Nadim,PER,person_nadiem,1.0,11,16
+114,115,Hukum bobrok sebobrok-bobroknya... 😢,Hukum,LAW,legal_terms,1.0,0,5
+115,116,Yg kaya hakim jaksa nya 😂😂😂,hakim,LAW,legal_terms,1.0,8,13
+115,116,Yg kaya hakim jaksa nya 😂😂😂,jaksa,LAW,legal_terms,1.0,14,19
+116,117,Udah bener di Gojek pake jadi menteri Pak🫣,Gojek,ORG,org_gojek,1.0,14,19
+117,118,Kalo nadim mmang salah saya rela nadim dihukum tapi klo nadim mmang ga bersalah demi alloh kudoakan orang yg dzolim semoga mulutnya ga bisa makan Apapun. Amiin,nadim,PER,person_nadiem,1.0,5,10
+117,118,Kalo nadim mmang salah saya rela nadim dihukum tapi klo nadim mmang ga bersalah demi alloh kudoakan orang yg dzolim semoga mulutnya ga bisa makan Apapun. Amiin,nadim,PER,person_nadiem,1.0,33,38
+117,118,Kalo nadim mmang salah saya rela nadim dihukum tapi klo nadim mmang ga bersalah demi alloh kudoakan orang yg dzolim semoga mulutnya ga bisa makan Apapun. Amiin,nadim,PER,person_nadiem,1.0,56,61
+117,118,Kalo nadim mmang salah saya rela nadim dihukum tapi klo nadim mmang ga bersalah demi alloh kudoakan orang yg dzolim semoga mulutnya ga bisa makan Apapun. Amiin,alloh,REG,religion_terms,1.0,85,90
+118,119,Saya kira ini doa para ojol... yg potongannya gila gilaan... 😅,ojol,ORG,org_gojek,1.0,23,27
+119,120,Sepertinya ada pesanan penjara dari seseorang yang rakus kekuasaan dan harta dunia,penjara,LAW,legal_terms,1.0,23,30
+120,121,Parah klo hukum kek bgni smnjak jokowi prabowo,jokowi,PER,person_jokowi,1.0,32,38
+120,121,Parah klo hukum kek bgni smnjak jokowi prabowo,prabowo,PER,person_public,1.0,39,46
+120,121,Parah klo hukum kek bgni smnjak jokowi prabowo,hukum,LAW,legal_terms,1.0,10,15
+121,122,HiduP JokoWi !!!,JokoWi,PER,person_jokowi,1.0,6,12
+122,123,"Pertanyaannya kenapa koruptor yg lain belum ada yg disuruh mengganti uang yg di korupsinya,,",koruptor,LAW,legal_terms,1.0,21,29
+124,125,"Kebenaran pasti akan menang 
+Semangat pak nadim
+💪💪💪",nadim,PER,person_nadiem,1.0,42,47
+125,126,Atasanya Bang Nadiem yg harusnya Di adilin..,Nadiem,PER,person_nadiem,1.0,14,20
+128,129,Indonesia udah di ambang kehancuran,Indonesia,GPE,geo_indonesia,1.0,0,9
+130,131,"Makanya jangan korupsi,, kan ente ikutan juga sama wiwi dan konco2nya yg nge back up mana mungkin gak terlibat,, tarik semua jeblosin yg terlibat,, sign dan approval kan pasti melalui ente yg kagak2 aja lah,, giliran suruh ganti uang kelojotan,, 😂😂 pejabat konoha yg korupsi enaknya kita lelepin ke sumur sampe mati 😂😂",korupsi,LAW,legal_terms,1.0,15,22
+130,131,"Makanya jangan korupsi,, kan ente ikutan juga sama wiwi dan konco2nya yg nge back up mana mungkin gak terlibat,, tarik semua jeblosin yg terlibat,, sign dan approval kan pasti melalui ente yg kagak2 aja lah,, giliran suruh ganti uang kelojotan,, 😂😂 pejabat konoha yg korupsi enaknya kita lelepin ke sumur sampe mati 😂😂",korupsi,LAW,legal_terms,1.0,267,274
+131,132,"Ngeriiii bos... beginilah dibirokrasi, banyak nadiem nadiem lain yg dibginikan di birokrasi. Mmg parah... semoga makin baik. 
+Bangkit Indonesiaku",nadiem,PER,person_nadiem,1.0,46,52
+131,132,"Ngeriiii bos... beginilah dibirokrasi, banyak nadiem nadiem lain yg dibginikan di birokrasi. Mmg parah... semoga makin baik. 
+Bangkit Indonesiaku",nadiem,PER,person_nadiem,1.0,53,59
+133,134,Apes awakmu nadiem seng sabar ya awakmu org bener kok,nadiem,PER,person_nadiem,1.0,12,18
+135,136,Hukum di Indonesia sangat amburadul,Indonesia,GPE,geo_indonesia,1.0,9,18
+135,136,Hukum di Indonesia sangat amburadul,Hukum,LAW,legal_terms,1.0,0,5
+137,138,Kata prabowo hidup jokowi,jokowi,PER,person_jokowi,1.0,19,25
+137,138,Kata prabowo hidup jokowi,prabowo,PER,person_public,1.0,5,12
+143,144,Lah yg lain ko cuma 4 tahun..,4 tahun,QTY,quantity_terms,1.0,20,27
+144,145,Korban Jokowi,Jokowi,PER,person_jokowi,1.0,7,13
+146,147,NADIEM Didzalimi dan ditumbalkan jokowi,NADIEM,PER,person_nadiem,1.0,0,6
+146,147,NADIEM Didzalimi dan ditumbalkan jokowi,jokowi,PER,person_jokowi,1.0,33,39
+147,148,"Suaminya Sandra dewi ngak begitu cara mengadili nya.... Kenapa di bedakan, korupsi timah merugikan negara 300T,, kenapa tdk mendapat hukuman yg lebih sulit,,, aneh prabowo ini ,, 😢😢",prabowo,PER,person_public,1.0,164,171
+147,148,"Suaminya Sandra dewi ngak begitu cara mengadili nya.... Kenapa di bedakan, korupsi timah merugikan negara 300T,, kenapa tdk mendapat hukuman yg lebih sulit,,, aneh prabowo ini ,, 😢😢",korupsi,LAW,legal_terms,1.0,75,82
+148,149,jokowi mana jokowi,jokowi,PER,person_jokowi,1.0,0,6
+148,149,jokowi mana jokowi,jokowi,PER,person_jokowi,1.0,12,18
+149,150,"Bener2 lu jdi CEO gojek...malah lu lepas... Aduhhh anak negeri pada gila jabatan.. KLO GX PNS GX keren..wkakkwkw..
+
+Lu tuntun balik Jokowi.. minta tanggung jawab sama atasan lu dlu.. kambing hitam Jokowi. Jokowi kaya raya.. GX ada yg berani mengkorek hasil kekayaannya",Jokowi,PER,person_jokowi,1.0,132,138
+149,150,"Bener2 lu jdi CEO gojek...malah lu lepas... Aduhhh anak negeri pada gila jabatan.. KLO GX PNS GX keren..wkakkwkw..
+
+Lu tuntun balik Jokowi.. minta tanggung jawab sama atasan lu dlu.. kambing hitam Jokowi. Jokowi kaya raya.. GX ada yg berani mengkorek hasil kekayaannya",Jokowi,PER,person_jokowi,1.0,197,203
+149,150,"Bener2 lu jdi CEO gojek...malah lu lepas... Aduhhh anak negeri pada gila jabatan.. KLO GX PNS GX keren..wkakkwkw..
+
+Lu tuntun balik Jokowi.. minta tanggung jawab sama atasan lu dlu.. kambing hitam Jokowi. Jokowi kaya raya.. GX ada yg berani mengkorek hasil kekayaannya",Jokowi,PER,person_jokowi,1.0,205,211
+149,150,"Bener2 lu jdi CEO gojek...malah lu lepas... Aduhhh anak negeri pada gila jabatan.. KLO GX PNS GX keren..wkakkwkw..
+
+Lu tuntun balik Jokowi.. minta tanggung jawab sama atasan lu dlu.. kambing hitam Jokowi. Jokowi kaya raya.. GX ada yg berani mengkorek hasil kekayaannya",gojek,ORG,org_gojek,1.0,18,23
+150,151,"Parah orNg yg bner dipenjara tanpa bukti ,silver yg Uda jls"" slh bebas",bukti,LAW,legal_terms,1.0,35,40
+152,153,15 tahun penjara yach total,penjara,LAW,legal_terms,1.0,9,16
+152,153,15 tahun penjara yach total,15 tahun,QTY,quantity_terms,1.0,0,8
+154,155,Tau gitu pa Nadiem ga usah ikut jadi menterinya.......,Nadiem,PER,person_nadiem,1.0,12,18
+155,156,Nadiem juga banyak dosa kebijakan yg buat Indonesia pendidikannya ancur sampai saat ini... nodo amat ma korupsi nya,Nadiem,PER,person_nadiem,1.0,0,6
+155,156,Nadiem juga banyak dosa kebijakan yg buat Indonesia pendidikannya ancur sampai saat ini... nodo amat ma korupsi nya,Indonesia,GPE,geo_indonesia,1.0,42,51
+155,156,Nadiem juga banyak dosa kebijakan yg buat Indonesia pendidikannya ancur sampai saat ini... nodo amat ma korupsi nya,korupsi,LAW,legal_terms,1.0,104,111
+157,158,Doa 200 juta rakyat ini akan segera terkabul untuk negara dzolim ini😢,200 juta,MON,money_terms,1.0,4,12
+161,162,"Yaa Allah.. Pengadilan jahat.. Indonesia semakin amburadul.. Anak bangsa berbakat ternyata dijadikan tumbal.. 
+Rakyat kesal... Sementara para pejabat  ber dasi putih di birokrasi..mencuri dng mudah nya .. Tampa merasa bersalah.. 
+Indonesia sarang korupsi yg menuduh anak bawang menjadi tumbal.. 
+Rakyat menanti keadilan",Indonesia,GPE,geo_indonesia,1.0,31,40
+161,162,"Yaa Allah.. Pengadilan jahat.. Indonesia semakin amburadul.. Anak bangsa berbakat ternyata dijadikan tumbal.. 
+Rakyat kesal... Sementara para pejabat  ber dasi putih di birokrasi..mencuri dng mudah nya .. Tampa merasa bersalah.. 
+Indonesia sarang korupsi yg menuduh anak bawang menjadi tumbal.. 
+Rakyat menanti keadilan",Indonesia,GPE,geo_indonesia,1.0,230,239
+161,162,"Yaa Allah.. Pengadilan jahat.. Indonesia semakin amburadul.. Anak bangsa berbakat ternyata dijadikan tumbal.. 
+Rakyat kesal... Sementara para pejabat  ber dasi putih di birokrasi..mencuri dng mudah nya .. Tampa merasa bersalah.. 
+Indonesia sarang korupsi yg menuduh anak bawang menjadi tumbal.. 
+Rakyat menanti keadilan",Pengadilan,LAW,legal_terms,1.0,12,22
+161,162,"Yaa Allah.. Pengadilan jahat.. Indonesia semakin amburadul.. Anak bangsa berbakat ternyata dijadikan tumbal.. 
+Rakyat kesal... Sementara para pejabat  ber dasi putih di birokrasi..mencuri dng mudah nya .. Tampa merasa bersalah.. 
+Indonesia sarang korupsi yg menuduh anak bawang menjadi tumbal.. 
+Rakyat menanti keadilan",korupsi,LAW,legal_terms,1.0,247,254
+161,162,"Yaa Allah.. Pengadilan jahat.. Indonesia semakin amburadul.. Anak bangsa berbakat ternyata dijadikan tumbal.. 
+Rakyat kesal... Sementara para pejabat  ber dasi putih di birokrasi..mencuri dng mudah nya .. Tampa merasa bersalah.. 
+Indonesia sarang korupsi yg menuduh anak bawang menjadi tumbal.. 
+Rakyat menanti keadilan",Allah,REG,religion_terms,1.0,4,9
+162,163,"Salahnyabkenapa dulu mao maoann ajah di kasih jabatan mentri sama jokowi...ternyata cuman cari masa karna punya masa gojek...ujungnya hanya dibjadikan tumbal kekuasaan sama jokowi...sekarang liat apa pembelaan jokowi buat nadim...
+Andai ajah waktubitu tetap di gojek mungkin ga akan seperti sekarang...",nadim,PER,person_nadiem,1.0,222,227
+162,163,"Salahnyabkenapa dulu mao maoann ajah di kasih jabatan mentri sama jokowi...ternyata cuman cari masa karna punya masa gojek...ujungnya hanya dibjadikan tumbal kekuasaan sama jokowi...sekarang liat apa pembelaan jokowi buat nadim...
+Andai ajah waktubitu tetap di gojek mungkin ga akan seperti sekarang...",jokowi,PER,person_jokowi,1.0,66,72
+162,163,"Salahnyabkenapa dulu mao maoann ajah di kasih jabatan mentri sama jokowi...ternyata cuman cari masa karna punya masa gojek...ujungnya hanya dibjadikan tumbal kekuasaan sama jokowi...sekarang liat apa pembelaan jokowi buat nadim...
+Andai ajah waktubitu tetap di gojek mungkin ga akan seperti sekarang...",jokowi,PER,person_jokowi,1.0,173,179
+162,163,"Salahnyabkenapa dulu mao maoann ajah di kasih jabatan mentri sama jokowi...ternyata cuman cari masa karna punya masa gojek...ujungnya hanya dibjadikan tumbal kekuasaan sama jokowi...sekarang liat apa pembelaan jokowi buat nadim...
+Andai ajah waktubitu tetap di gojek mungkin ga akan seperti sekarang...",jokowi,PER,person_jokowi,1.0,210,216
+162,163,"Salahnyabkenapa dulu mao maoann ajah di kasih jabatan mentri sama jokowi...ternyata cuman cari masa karna punya masa gojek...ujungnya hanya dibjadikan tumbal kekuasaan sama jokowi...sekarang liat apa pembelaan jokowi buat nadim...
+Andai ajah waktubitu tetap di gojek mungkin ga akan seperti sekarang...",gojek,ORG,org_gojek,1.0,117,122
+162,163,"Salahnyabkenapa dulu mao maoann ajah di kasih jabatan mentri sama jokowi...ternyata cuman cari masa karna punya masa gojek...ujungnya hanya dibjadikan tumbal kekuasaan sama jokowi...sekarang liat apa pembelaan jokowi buat nadim...
+Andai ajah waktubitu tetap di gojek mungkin ga akan seperti sekarang...",gojek,ORG,org_gojek,1.0,261,266
+165,166,Kalo orang itu benar tidak korupsi maka Belio tidak akan kena hukuman.,korupsi,LAW,legal_terms,1.0,27,34
+166,167,Kacau banget negara ini. Penegak hukumnya main2in hukum.,hukum,LAW,legal_terms,1.0,50,55
+167,168,Penasaran Dadan di vonis brp dan ganti rugi brp...,vonis,LAW,legal_terms,1.0,19,24
+169,170,"Jika bapak nadirmin merasa yakin tdk salah.. Serahkan sama Tuhan saja pak... Pasti mereka akan Terima hukuman yang dari Tuhan... Saya yakin pak.. Bapak tdk sejahat itu.. Sy do'akan ya pak.. Siapa yg lebih dulu dijemput malaikat maut.. 
+Saksikan saja pak.. GBU.. ❤❤❤❤❤❤❤❤❤❤",Tuhan,REG,religion_terms,1.0,59,64
+169,170,"Jika bapak nadirmin merasa yakin tdk salah.. Serahkan sama Tuhan saja pak... Pasti mereka akan Terima hukuman yang dari Tuhan... Saya yakin pak.. Bapak tdk sejahat itu.. Sy do'akan ya pak.. Siapa yg lebih dulu dijemput malaikat maut.. 
+Saksikan saja pak.. GBU.. ❤❤❤❤❤❤❤❤❤❤",Tuhan,REG,religion_terms,1.0,120,125
+170,171,"Gilaa...!!! Astagfirulloh....
+Kasian jadi TUMBAL Pak Nadiem Makarim..., di ZHOLIMI... Yaa Alloh..Astagfirulloh...
+Uang Pengganti kok
+809 Milyard.....??!!  
+Cari uang seratus ribu aja susaaahhh..., yg Pengangguran seperti saya...",Nadiem Makarim,PER,person_nadiem,1.0,53,67
+170,171,"Gilaa...!!! Astagfirulloh....
+Kasian jadi TUMBAL Pak Nadiem Makarim..., di ZHOLIMI... Yaa Alloh..Astagfirulloh...
+Uang Pengganti kok
+809 Milyard.....??!!  
+Cari uang seratus ribu aja susaaahhh..., yg Pengangguran seperti saya...",Alloh,REG,religion_terms,1.0,90,95
+171,172,Alhamdulillah semoga kedepan indonesia terbebas dari para koruptor... Dan pak nadim moga cept bertaubat contohlah angelina sondak..,nadim,PER,person_nadiem,1.0,78,83
+171,172,Alhamdulillah semoga kedepan indonesia terbebas dari para koruptor... Dan pak nadim moga cept bertaubat contohlah angelina sondak..,indonesia,GPE,geo_indonesia,1.0,29,38
+171,172,Alhamdulillah semoga kedepan indonesia terbebas dari para koruptor... Dan pak nadim moga cept bertaubat contohlah angelina sondak..,koruptor,LAW,legal_terms,1.0,58,66
+171,172,Alhamdulillah semoga kedepan indonesia terbebas dari para koruptor... Dan pak nadim moga cept bertaubat contohlah angelina sondak..,Alhamdulillah,REG,religion_terms,1.0,0,13
+174,175,koruptor pintar ekting.hukum mati biar kapok,koruptor,LAW,legal_terms,1.0,0,8
+174,175,koruptor pintar ekting.hukum mati biar kapok,hukum,LAW,legal_terms,1.0,23,28
+175,176,Pak nadiem ....apa sdh ngomong uang itu beredar di Jokowi n luhut,nadiem,PER,person_nadiem,1.0,4,10
+175,176,Pak nadiem ....apa sdh ngomong uang itu beredar di Jokowi n luhut,Jokowi,PER,person_jokowi,1.0,51,57
+176,177,"Hadirkan Jokowi dipersidangan. Setiap sidang kasus korupsi slalu tersebut namanya. Ingat pak hakim, pak jaksa, pak penyidik. Ust Das'ad bilang bahwa kalian bisa lolos pengadilan dunia, tp kalian tdk akan bisa lolos pengadilan akhirat. Aamiin..",Jokowi,PER,person_jokowi,1.0,9,15
+176,177,"Hadirkan Jokowi dipersidangan. Setiap sidang kasus korupsi slalu tersebut namanya. Ingat pak hakim, pak jaksa, pak penyidik. Ust Das'ad bilang bahwa kalian bisa lolos pengadilan dunia, tp kalian tdk akan bisa lolos pengadilan akhirat. Aamiin..",korupsi,LAW,legal_terms,1.0,51,58
+176,177,"Hadirkan Jokowi dipersidangan. Setiap sidang kasus korupsi slalu tersebut namanya. Ingat pak hakim, pak jaksa, pak penyidik. Ust Das'ad bilang bahwa kalian bisa lolos pengadilan dunia, tp kalian tdk akan bisa lolos pengadilan akhirat. Aamiin..",hakim,LAW,legal_terms,1.0,93,98
+176,177,"Hadirkan Jokowi dipersidangan. Setiap sidang kasus korupsi slalu tersebut namanya. Ingat pak hakim, pak jaksa, pak penyidik. Ust Das'ad bilang bahwa kalian bisa lolos pengadilan dunia, tp kalian tdk akan bisa lolos pengadilan akhirat. Aamiin..",jaksa,LAW,legal_terms,1.0,104,109
+176,177,"Hadirkan Jokowi dipersidangan. Setiap sidang kasus korupsi slalu tersebut namanya. Ingat pak hakim, pak jaksa, pak penyidik. Ust Das'ad bilang bahwa kalian bisa lolos pengadilan dunia, tp kalian tdk akan bisa lolos pengadilan akhirat. Aamiin..",pengadilan,LAW,legal_terms,1.0,167,177
+176,177,"Hadirkan Jokowi dipersidangan. Setiap sidang kasus korupsi slalu tersebut namanya. Ingat pak hakim, pak jaksa, pak penyidik. Ust Das'ad bilang bahwa kalian bisa lolos pengadilan dunia, tp kalian tdk akan bisa lolos pengadilan akhirat. Aamiin..",pengadilan,LAW,legal_terms,1.0,215,225
+177,178,Kasian jg jd tumbal krn big bos sdh gak takut Tuhan,Tuhan,REG,religion_terms,1.0,46,51
+179,180,"aku kasihan sama pak Nadiem, semoga sabar menghadapinya dan sehat selalu",Nadiem,PER,person_nadiem,1.0,21,27
+180,181,Insyaallah Allah akan memberikan jalan....,Insyaallah,REG,religion_terms,1.0,0,10
+180,181,Insyaallah Allah akan memberikan jalan....,Allah,REG,religion_terms,1.0,11,16
+181,182,Kita liat aja netizen si Dadan cs di hukum berapa tahun denda berapa kalw lebih ringan dari pak Nadiem demo,Nadiem,PER,person_nadiem,1.0,96,102
+181,182,Kita liat aja netizen si Dadan cs di hukum berapa tahun denda berapa kalw lebih ringan dari pak Nadiem demo,hukum,LAW,legal_terms,1.0,37,42
+181,182,Kita liat aja netizen si Dadan cs di hukum berapa tahun denda berapa kalw lebih ringan dari pak Nadiem demo,denda,LAW,legal_terms,1.0,56,61
+181,182,Kita liat aja netizen si Dadan cs di hukum berapa tahun denda berapa kalw lebih ringan dari pak Nadiem demo,demo,EVT,event_terms,1.0,103,107
+182,183,Yg triliunan dendanya gak segitu...sabar ya pa Nadiem namanya juga negara Konoha ...tahu begitu mending jadi pengusaha gojek gak hrs banyak tuntutan,Nadiem,PER,person_nadiem,1.0,47,53
+182,183,Yg triliunan dendanya gak segitu...sabar ya pa Nadiem namanya juga negara Konoha ...tahu begitu mending jadi pengusaha gojek gak hrs banyak tuntutan,gojek,ORG,org_gojek,1.0,119,124
+183,184,Innalillahi... Biadaaabbbb... !!! Pengadilan sesattt....!,Pengadilan,LAW,legal_terms,1.0,34,44
+184,185,"Hukum harus berat buat korupsi, coba liat masyarakat yang di bawah",Hukum,LAW,legal_terms,1.0,0,5
+184,185,"Hukum harus berat buat korupsi, coba liat masyarakat yang di bawah",korupsi,LAW,legal_terms,1.0,23,30
+186,187,Astagfirullohaladzim...semiga Bpk Nadiem sehat selalu dan cepat ada mujijat dari Alloh swt atas keshabaran dan keridoannya memberi ilmu kepada generasi Anak2 muda 🤲🤲🤲🤲😭😭😭😭,Nadiem,PER,person_nadiem,1.0,34,40
+186,187,Astagfirullohaladzim...semiga Bpk Nadiem sehat selalu dan cepat ada mujijat dari Alloh swt atas keshabaran dan keridoannya memberi ilmu kepada generasi Anak2 muda 🤲🤲🤲🤲😭😭😭😭,Alloh,REG,religion_terms,1.0,81,86
+187,188,Jebakan betmen sebut aja bang sebut aja anda di jebak jokowi,jokowi,PER,person_jokowi,1.0,54,60
+188,189,"Turut prihatin pak Nadiem. Namun apadaya apa yang bisa kami bantu, hanya do'a semoga Allah Subhanahu Wataalah menunjukkan kebenaranNya .",Nadiem,PER,person_nadiem,1.0,19,25
+188,189,"Turut prihatin pak Nadiem. Namun apadaya apa yang bisa kami bantu, hanya do'a semoga Allah Subhanahu Wataalah menunjukkan kebenaranNya .",Allah,REG,religion_terms,1.0,85,90
+189,190,"Turut prihatin pak Nadiem. Namun apadaya apa yang bisa kami bantu, hanya do'a semoga Allah Subhanahu Wataalah menunjukkan kebenaranNya .",Nadiem,PER,person_nadiem,1.0,19,25
+189,190,"Turut prihatin pak Nadiem. Namun apadaya apa yang bisa kami bantu, hanya do'a semoga Allah Subhanahu Wataalah menunjukkan kebenaranNya .",Allah,REG,religion_terms,1.0,85,90
+190,191,singguh zalim kekuasaan saat ini terlalu duniawi hingga sering kali melakukan hal hal hina. ingat pengadilan tertinggi adalah kuasanya. siapa menanam akan memetik hasilnya siapa berbuat akan menaggung pembalasanya kelak nauzubillah,pengadilan,LAW,legal_terms,1.0,98,108
+191,192,Tumbal Mulyono 😮,Mulyono,PER,person_jokowi,1.0,7,14
+196,197,Hidup jokowi,jokowi,PER,person_jokowi,1.0,6,12
+197,198,Dia cerdas visioner tpi dia membuat kesalahan dgn masuk kabinetnya jokowi,jokowi,PER,person_jokowi,1.0,67,73
+199,200,"Miris Melihat Hukum di Indonesia...??...,   Gampang merangkai Fitnah...??...    Drama Pengadilan....??.... 😂😂😂😂",Indonesia,GPE,geo_indonesia,1.0,23,32
+199,200,"Miris Melihat Hukum di Indonesia...??...,   Gampang merangkai Fitnah...??...    Drama Pengadilan....??.... 😂😂😂😂",Hukum,LAW,legal_terms,1.0,14,19
+199,200,"Miris Melihat Hukum di Indonesia...??...,   Gampang merangkai Fitnah...??...    Drama Pengadilan....??.... 😂😂😂😂",Pengadilan,LAW,legal_terms,1.0,86,96
+200,201,"Terlanjur pak Nadim, kalo waktu bisa di putar kembali pasti gak Sudi jadi menri",Nadim,PER,person_nadiem,1.0,14,19
+203,204,Mulyono lagi mulyoni lagi,Mulyono,PER,person_jokowi,1.0,0,7
+205,206,Jokowi penghancur bangsa meninggalkan sayembara ijazah,Jokowi,PER,person_jokowi,1.0,0,6
+206,207,"Kasian pak nadim dibuat kambing hitam dan peralihan isu publik program mbg,,, 😢 yah ALLAH beta sulitnya jadi orang baik dikonoha,,, 😭😭😭",nadim,PER,person_nadiem,1.0,11,16
+206,207,"Kasian pak nadim dibuat kambing hitam dan peralihan isu publik program mbg,,, 😢 yah ALLAH beta sulitnya jadi orang baik dikonoha,,, 😭😭😭",ALLAH,REG,religion_terms,1.0,84,89
+207,208,"Sy berfikir,  Setega itukah orang yg menumbalkanya,  apakah mereka agama,  tidak kah berfikir dunia bukan segalanya, pengadilan akherat menanti",pengadilan,LAW,legal_terms,1.0,117,127
+208,209,"Nadim makarim sdh ciptakan lapangan kerja 
+sdh banyak rakyat yg tertolong hidup kluarganya , dgn menjadi ojol 
+makanya di buat seperti itu.
+Indonesiakuu ada apa ? 
+bgmn dgn koruptor yg menikmati uang negri ini tanpa memikirkan kehidupan rakyatnya ???
+Ada apa ?",Nadim,PER,person_nadiem,1.0,0,5
+208,209,"Nadim makarim sdh ciptakan lapangan kerja 
+sdh banyak rakyat yg tertolong hidup kluarganya , dgn menjadi ojol 
+makanya di buat seperti itu.
+Indonesiakuu ada apa ? 
+bgmn dgn koruptor yg menikmati uang negri ini tanpa memikirkan kehidupan rakyatnya ???
+Ada apa ?",ojol,ORG,org_gojek,1.0,105,109
+208,209,"Nadim makarim sdh ciptakan lapangan kerja 
+sdh banyak rakyat yg tertolong hidup kluarganya , dgn menjadi ojol 
+makanya di buat seperti itu.
+Indonesiakuu ada apa ? 
+bgmn dgn koruptor yg menikmati uang negri ini tanpa memikirkan kehidupan rakyatnya ???
+Ada apa ?",koruptor,LAW,legal_terms,1.0,173,181
+209,210,Korban dari Mulyono.,Mulyono,PER,person_jokowi,1.0,12,19
+212,213,"Semoga putusan pengadilan, adalah suatu kebenaran. Hukum orang yg salah dan bebaskan orang yg benar",putusan,LAW,legal_terms,1.0,7,14
+212,213,"Semoga putusan pengadilan, adalah suatu kebenaran. Hukum orang yg salah dan bebaskan orang yg benar",pengadilan,LAW,legal_terms,1.0,15,25
+212,213,"Semoga putusan pengadilan, adalah suatu kebenaran. Hukum orang yg salah dan bebaskan orang yg benar",Hukum,LAW,legal_terms,1.0,51,56
+215,216,"enak2 jadi bos gojek..
+lha ya kok mau dijadikan mentri...
+Sukses tak dipuji 
+Salah kebijakan masuk bui",gojek,ORG,org_gojek,1.0,15,20
+217,218,"Hukum sudah menjadi alat kekuasaan,
+Ini Uda menjadi negara tiran.
+Sudah wajib hukum nya dilakukan revolusi akhlak
+Agar GK menjadi makin banyak makan korban.
+Ini hakim Uda GK ada rasa manusia lg,",Hukum,LAW,legal_terms,1.0,0,5
+217,218,"Hukum sudah menjadi alat kekuasaan,
+Ini Uda menjadi negara tiran.
+Sudah wajib hukum nya dilakukan revolusi akhlak
+Agar GK menjadi makin banyak makan korban.
+Ini hakim Uda GK ada rasa manusia lg,",hukum,LAW,legal_terms,1.0,78,83
+217,218,"Hukum sudah menjadi alat kekuasaan,
+Ini Uda menjadi negara tiran.
+Sudah wajib hukum nya dilakukan revolusi akhlak
+Agar GK menjadi makin banyak makan korban.
+Ini hakim Uda GK ada rasa manusia lg,",hakim,LAW,legal_terms,1.0,161,166
+219,220,"Yang jadikan dia mentri adalah Jokowi Akir nya masuk penjara 
+Yang jadikan kepala mbg dadang Jokowi Akir nya masuk penjara 
+
+Kok aneh ya apakah di jadikan tumbal",Jokowi,PER,person_jokowi,1.0,31,37
+219,220,"Yang jadikan dia mentri adalah Jokowi Akir nya masuk penjara 
+Yang jadikan kepala mbg dadang Jokowi Akir nya masuk penjara 
+
+Kok aneh ya apakah di jadikan tumbal",Jokowi,PER,person_jokowi,1.0,93,99
+219,220,"Yang jadikan dia mentri adalah Jokowi Akir nya masuk penjara 
+Yang jadikan kepala mbg dadang Jokowi Akir nya masuk penjara 
+
+Kok aneh ya apakah di jadikan tumbal",penjara,LAW,legal_terms,1.0,53,60
+219,220,"Yang jadikan dia mentri adalah Jokowi Akir nya masuk penjara 
+Yang jadikan kepala mbg dadang Jokowi Akir nya masuk penjara 
+
+Kok aneh ya apakah di jadikan tumbal",penjara,LAW,legal_terms,1.0,115,122
+220,221,Daya rusak pria solo buat hukum hancur parah,hukum,LAW,legal_terms,1.0,26,31
+221,222,Daya rusak pria solo buat hukum hancur parah,hukum,LAW,legal_terms,1.0,26,31
+223,224,Yang ksih vonis itu siap2 tanggung dosa berat saat di hisab....😮😮,vonis,LAW,legal_terms,1.0,10,15
+225,226,Kirain ini menteri kesayangan Jokowi eh ternyata bukan,Jokowi,PER,person_jokowi,1.0,30,36
+226,227,"Hakim, di indonesia kan pinter2",indonesia,GPE,geo_indonesia,1.0,10,19
+226,227,"Hakim, di indonesia kan pinter2",Hakim,LAW,legal_terms,1.0,0,5
+227,228,Semangat pak adikmu Allah buka  nanti yg benarrrrr kuattttttttt pak byak yg berdoa untuk p adim,Allah,REG,religion_terms,1.0,20,25
+228,229,Negara isinya koruptor!!!,koruptor,LAW,legal_terms,1.0,14,22
+229,230,Tapi termul alasan nya macam2.menyalah kan nadim.tapi tapi yg nyuruh tambah angaran diem2 bae,nadim,PER,person_nadiem,1.0,43,48
+230,231,"Makanya mas jgn mau dibujuk rayu Jokow jd menteri. 
+Pemerintahan itu jahat, politik itu jahat. Fh bener jd CEO gojek, mas cukup dibalik layar saja kalau mau bantu pendidikan di Indonesia. Ga perlu jd aktor utama. 
+Semoga Tuhan Yang Maha Kuasa menunjukkan kuasa-Nya padamu mas Gojek",gojek,ORG,org_gojek,1.0,111,116
+230,231,"Makanya mas jgn mau dibujuk rayu Jokow jd menteri. 
+Pemerintahan itu jahat, politik itu jahat. Fh bener jd CEO gojek, mas cukup dibalik layar saja kalau mau bantu pendidikan di Indonesia. Ga perlu jd aktor utama. 
+Semoga Tuhan Yang Maha Kuasa menunjukkan kuasa-Nya padamu mas Gojek",Gojek,ORG,org_gojek,1.0,276,281
+230,231,"Makanya mas jgn mau dibujuk rayu Jokow jd menteri. 
+Pemerintahan itu jahat, politik itu jahat. Fh bener jd CEO gojek, mas cukup dibalik layar saja kalau mau bantu pendidikan di Indonesia. Ga perlu jd aktor utama. 
+Semoga Tuhan Yang Maha Kuasa menunjukkan kuasa-Nya padamu mas Gojek",Indonesia,GPE,geo_indonesia,1.0,177,186
+230,231,"Makanya mas jgn mau dibujuk rayu Jokow jd menteri. 
+Pemerintahan itu jahat, politik itu jahat. Fh bener jd CEO gojek, mas cukup dibalik layar saja kalau mau bantu pendidikan di Indonesia. Ga perlu jd aktor utama. 
+Semoga Tuhan Yang Maha Kuasa menunjukkan kuasa-Nya padamu mas Gojek",Tuhan,REG,religion_terms,1.0,221,226
+233,234,"Tunggu aja bang nadiem 2029, ahok n kdm pasti bantu anda",nadiem,PER,person_nadiem,1.0,16,22
+233,234,"Tunggu aja bang nadiem 2029, ahok n kdm pasti bantu anda",ahok,PER,person_public,1.0,29,33
+235,236,Semoga jaksa penuntut dan keluarganya mendapat KARMA yg lebih beratttttttttttt,jaksa,LAW,legal_terms,1.0,7,12
+236,237,Mestinya Mulyono yg diruntut,Mulyono,PER,person_jokowi,1.0,9,16
+237,238,Pak Nadim...klo bisa anggarannya di tambah wkwkwkwkw,Nadim,PER,person_nadiem,1.0,4,9
+238,239,"Biadab buanget, Allah Maha Mengetahui  apa2 yg dilakukan oleh  biadab2 yg zalim itu, mas Nadim jngn pernah berharap pertolongan selain Allah, banyak2 istighfar berserah diri, kembalikan semua persoalan kpd Allah, isyaaAllah Allah akan menolong dg cara Allah yg tak terduga, insyaaAllah cobaan dan fitnah itu akan menghapus dosa2 dan Allah akan mengangkat derajat anda",Nadim,PER,person_nadiem,1.0,89,94
+238,239,"Biadab buanget, Allah Maha Mengetahui  apa2 yg dilakukan oleh  biadab2 yg zalim itu, mas Nadim jngn pernah berharap pertolongan selain Allah, banyak2 istighfar berserah diri, kembalikan semua persoalan kpd Allah, isyaaAllah Allah akan menolong dg cara Allah yg tak terduga, insyaaAllah cobaan dan fitnah itu akan menghapus dosa2 dan Allah akan mengangkat derajat anda",Allah,REG,religion_terms,1.0,16,21
+238,239,"Biadab buanget, Allah Maha Mengetahui  apa2 yg dilakukan oleh  biadab2 yg zalim itu, mas Nadim jngn pernah berharap pertolongan selain Allah, banyak2 istighfar berserah diri, kembalikan semua persoalan kpd Allah, isyaaAllah Allah akan menolong dg cara Allah yg tak terduga, insyaaAllah cobaan dan fitnah itu akan menghapus dosa2 dan Allah akan mengangkat derajat anda",Allah,REG,religion_terms,1.0,135,140
+238,239,"Biadab buanget, Allah Maha Mengetahui  apa2 yg dilakukan oleh  biadab2 yg zalim itu, mas Nadim jngn pernah berharap pertolongan selain Allah, banyak2 istighfar berserah diri, kembalikan semua persoalan kpd Allah, isyaaAllah Allah akan menolong dg cara Allah yg tak terduga, insyaaAllah cobaan dan fitnah itu akan menghapus dosa2 dan Allah akan mengangkat derajat anda",Allah,REG,religion_terms,1.0,206,211
+238,239,"Biadab buanget, Allah Maha Mengetahui  apa2 yg dilakukan oleh  biadab2 yg zalim itu, mas Nadim jngn pernah berharap pertolongan selain Allah, banyak2 istighfar berserah diri, kembalikan semua persoalan kpd Allah, isyaaAllah Allah akan menolong dg cara Allah yg tak terduga, insyaaAllah cobaan dan fitnah itu akan menghapus dosa2 dan Allah akan mengangkat derajat anda",Allah,REG,religion_terms,1.0,224,229
+238,239,"Biadab buanget, Allah Maha Mengetahui  apa2 yg dilakukan oleh  biadab2 yg zalim itu, mas Nadim jngn pernah berharap pertolongan selain Allah, banyak2 istighfar berserah diri, kembalikan semua persoalan kpd Allah, isyaaAllah Allah akan menolong dg cara Allah yg tak terduga, insyaaAllah cobaan dan fitnah itu akan menghapus dosa2 dan Allah akan mengangkat derajat anda",Allah,REG,religion_terms,1.0,252,257
+238,239,"Biadab buanget, Allah Maha Mengetahui  apa2 yg dilakukan oleh  biadab2 yg zalim itu, mas Nadim jngn pernah berharap pertolongan selain Allah, banyak2 istighfar berserah diri, kembalikan semua persoalan kpd Allah, isyaaAllah Allah akan menolong dg cara Allah yg tak terduga, insyaaAllah cobaan dan fitnah itu akan menghapus dosa2 dan Allah akan mengangkat derajat anda",Allah,REG,religion_terms,1.0,333,338
+239,240,"Tdk terbukti tapi di vonis 15 thn, ngeri amat keadilan di negri ini,",vonis,LAW,legal_terms,1.0,21,26
+240,241,Ketika anak muda yg sangat berjasa untuk indonesia tiba2 d jebloskan oleh negara.... Gibran sewa mahasiswa kemaren gmn....???,Gibran,PER,person_public,1.0,85,91
+240,241,Ketika anak muda yg sangat berjasa untuk indonesia tiba2 d jebloskan oleh negara.... Gibran sewa mahasiswa kemaren gmn....???,indonesia,GPE,geo_indonesia,1.0,41,50
+241,242,D tumbal kan oleh mulyono,mulyono,PER,person_jokowi,1.0,18,25
+242,243,"Bang hotman Paris , gmn ni, apakah sudah tercapai keadilan?",hotman,PER,person_public,1.0,5,11
+244,245,"Kalo Nadiem bisa divonis spt ini kasus whoose, IKN, MBG Bisa diseret semua pelaku2 nya",Nadiem,PER,person_nadiem,1.0,5,11
+245,246,JOKOWI OH JOKOWI,JOKOWI,PER,person_jokowi,1.0,0,6
+245,246,JOKOWI OH JOKOWI,JOKOWI,PER,person_jokowi,1.0,10,16
+247,248,"Dunia hanya sementara pak 
+Di penjara itu ibarat neraka di dunia,
+
+Aku yakin dengan orang yang Menjolimi bapak,Suatu saat pak Nadim ditempatkan di surga",Nadim,PER,person_nadiem,1.0,126,131
+247,248,"Dunia hanya sementara pak 
+Di penjara itu ibarat neraka di dunia,
+
+Aku yakin dengan orang yang Menjolimi bapak,Suatu saat pak Nadim ditempatkan di surga",penjara,LAW,legal_terms,1.0,30,37
+248,249,Bukti demokrasi tidak cocok untuk orang pintar,Bukti,LAW,legal_terms,1.0,0,5
+251,252,Kejaksaan & Pengadilan yg menghukum seseorang yg tdk bersalah akan menderita hidupnya dunia & akhiray,Pengadilan,LAW,legal_terms,1.0,12,22
+252,253,Parah di mah hukum indo,hukum,LAW,legal_terms,1.0,13,18
+253,254,"Ngape Nadiem tadak nuntut ke jokowi, kok maok2nye jd martir dan bempernye utk menyelamatkan jokowi dan keluarganye,..",Nadiem,PER,person_nadiem,1.0,6,12
+253,254,"Ngape Nadiem tadak nuntut ke jokowi, kok maok2nye jd martir dan bempernye utk menyelamatkan jokowi dan keluarganye,..",jokowi,PER,person_jokowi,1.0,29,35
+253,254,"Ngape Nadiem tadak nuntut ke jokowi, kok maok2nye jd martir dan bempernye utk menyelamatkan jokowi dan keluarganye,..",jokowi,PER,person_jokowi,1.0,92,98
+254,255,Makanya rim rim lu udah enak enak punya gojek lu'nya ikutan gituan.. nyeselkan jadinya 😂,gojek,ORG,org_gojek,1.0,40,45
+255,256,jokowi yg korupsi sampe sekarang bebas melanglang buana,jokowi,PER,person_jokowi,1.0,0,6
+255,256,jokowi yg korupsi sampe sekarang bebas melanglang buana,korupsi,LAW,legal_terms,1.0,10,17
+257,258,"Ayo anak2 gojek jangan pada diem aja,ini sudah tidak adil,ijo in ayo ayo",gojek,ORG,org_gojek,1.0,10,15
+258,259,"Jokowi hrus d hadirkn, di sidangkn...ini cara terbaik agar indonesia berubah",Jokowi,PER,person_jokowi,1.0,0,6
+258,259,"Jokowi hrus d hadirkn, di sidangkn...ini cara terbaik agar indonesia berubah",indonesia,GPE,geo_indonesia,1.0,59,68
+259,260,Siap yg memfitnah mu pak nadim....dia dajjal sejati,nadim,PER,person_nadiem,1.0,25,30
+261,262,"Parah,si omon omon diem2 bae,ampuun negara udah parah,rakyat udah muakkkk,si jokowi ga ada yg berani nyentuh sama sekali malah,pasti dia korup plus izasah bodong,cuiiih",jokowi,PER,person_jokowi,1.0,77,83
+264,265,Kasihan anda tertipu jokowi,jokowi,PER,person_jokowi,1.0,21,27
+265,266,Pake Nadiem salah satu tumbal kelicikan penguasa,Nadiem,PER,person_nadiem,1.0,5,11
+266,267,"Semoga yg memberi vonis NADIEM,,KENA ADZAB,,",NADIEM,PER,person_nadiem,1.0,24,30
+266,267,"Semoga yg memberi vonis NADIEM,,KENA ADZAB,,",vonis,LAW,legal_terms,1.0,18,23
+266,267,"Semoga yg memberi vonis NADIEM,,KENA ADZAB,,",ADZAB,REG,religion_terms,1.0,37,42
+267,268,sepertinya pak nadiem sengaja dijadikan tumbal oleh elit tertentu di negara ini,nadiem,PER,person_nadiem,1.0,15,21
+269,270,"Kenapa Hakim di Indonesia banyak yang jadi Dazzal Gitu yach, apa mereka gak takut akan Hukum Akherat..., Semoga apa yg dialami Nadiem makarin ini, suatu saat, dirasakan oleh Anak-Cucu nya Hakim yang memvonis Nadiem",Nadiem,PER,person_nadiem,1.0,127,133
+269,270,"Kenapa Hakim di Indonesia banyak yang jadi Dazzal Gitu yach, apa mereka gak takut akan Hukum Akherat..., Semoga apa yg dialami Nadiem makarin ini, suatu saat, dirasakan oleh Anak-Cucu nya Hakim yang memvonis Nadiem",Nadiem,PER,person_nadiem,1.0,208,214
+269,270,"Kenapa Hakim di Indonesia banyak yang jadi Dazzal Gitu yach, apa mereka gak takut akan Hukum Akherat..., Semoga apa yg dialami Nadiem makarin ini, suatu saat, dirasakan oleh Anak-Cucu nya Hakim yang memvonis Nadiem",Indonesia,GPE,geo_indonesia,1.0,16,25
+269,270,"Kenapa Hakim di Indonesia banyak yang jadi Dazzal Gitu yach, apa mereka gak takut akan Hukum Akherat..., Semoga apa yg dialami Nadiem makarin ini, suatu saat, dirasakan oleh Anak-Cucu nya Hakim yang memvonis Nadiem",Hakim,LAW,legal_terms,1.0,7,12
+269,270,"Kenapa Hakim di Indonesia banyak yang jadi Dazzal Gitu yach, apa mereka gak takut akan Hukum Akherat..., Semoga apa yg dialami Nadiem makarin ini, suatu saat, dirasakan oleh Anak-Cucu nya Hakim yang memvonis Nadiem",Hukum,LAW,legal_terms,1.0,87,92
+269,270,"Kenapa Hakim di Indonesia banyak yang jadi Dazzal Gitu yach, apa mereka gak takut akan Hukum Akherat..., Semoga apa yg dialami Nadiem makarin ini, suatu saat, dirasakan oleh Anak-Cucu nya Hakim yang memvonis Nadiem",Hakim,LAW,legal_terms,1.0,188,193
+270,271,"kenapa eg minta sama bos nya,jokowi",jokowi,PER,person_jokowi,1.0,29,35
+273,274,Tunggu pak Prabowo pidato,Prabowo,PER,person_public,1.0,11,18
+274,275,"Lah ngapain anda kok mau jdi mentri jokowi, anda di jebak jokowi,, enak jdi owner PT. Gojek dlu",jokowi,PER,person_jokowi,1.0,36,42
+274,275,"Lah ngapain anda kok mau jdi mentri jokowi, anda di jebak jokowi,, enak jdi owner PT. Gojek dlu",jokowi,PER,person_jokowi,1.0,58,64
+274,275,"Lah ngapain anda kok mau jdi mentri jokowi, anda di jebak jokowi,, enak jdi owner PT. Gojek dlu",Gojek,ORG,org_gojek,1.0,86,91
+275,276,"Alhamdulillah, ga ada pejabat yg ga korupsi., perusak sistem pendidikan indonesia.",indonesia,GPE,geo_indonesia,1.0,72,81
+275,276,"Alhamdulillah, ga ada pejabat yg ga korupsi., perusak sistem pendidikan indonesia.",korupsi,LAW,legal_terms,1.0,36,43
+275,276,"Alhamdulillah, ga ada pejabat yg ga korupsi., perusak sistem pendidikan indonesia.",Alhamdulillah,REG,religion_terms,1.0,0,13
+277,278,Makannya lu urus aja gojek ngapain lu masuk di pemerintahan yang BOBROK lu sendiri yang jalanin ya jalanin lah...gojek Udeh di cekik juga sama aplikatornya lu juga kena kan lu hahahah kikan,gojek,ORG,org_gojek,1.0,21,26
+277,278,Makannya lu urus aja gojek ngapain lu masuk di pemerintahan yang BOBROK lu sendiri yang jalanin ya jalanin lah...gojek Udeh di cekik juga sama aplikatornya lu juga kena kan lu hahahah kikan,gojek,ORG,org_gojek,1.0,113,118
+278,279,"Lgi tenang2 di usa di panggil jokowi cumn di jdikan tumbal, yg sabar pk Alloh g tidur",jokowi,PER,person_jokowi,1.0,30,36
+278,279,"Lgi tenang2 di usa di panggil jokowi cumn di jdikan tumbal, yg sabar pk Alloh g tidur",Alloh,REG,religion_terms,1.0,72,77
+281,282,Hukum gila,Hukum,LAW,legal_terms,1.0,0,5
+285,286,Seram nya hukum di negara ini . . .jadi perusahaan gojek gratis utk dikelola koruptor,gojek,ORG,org_gojek,1.0,51,56
+285,286,Seram nya hukum di negara ini . . .jadi perusahaan gojek gratis utk dikelola koruptor,hukum,LAW,legal_terms,1.0,10,15
+285,286,Seram nya hukum di negara ini . . .jadi perusahaan gojek gratis utk dikelola koruptor,koruptor,LAW,legal_terms,1.0,77,85
+287,288,Jokowi kenapa nga di hadirkan?,Jokowi,PER,person_jokowi,1.0,0,6
+288,289,Mesti nya bukan nadim. Tapi jokowi yg harus di penjara. Dia yg suruh ko,nadim,PER,person_nadiem,1.0,16,21
+288,289,Mesti nya bukan nadim. Tapi jokowi yg harus di penjara. Dia yg suruh ko,jokowi,PER,person_jokowi,1.0,28,34
+288,289,Mesti nya bukan nadim. Tapi jokowi yg harus di penjara. Dia yg suruh ko,penjara,LAW,legal_terms,1.0,47,54
+295,296,Sampai kan ke bang hotman paris pak nadiem,nadiem,PER,person_nadiem,1.0,36,42
+295,296,Sampai kan ke bang hotman paris pak nadiem,hotman,PER,person_public,1.0,19,25
+296,297,"Penghakiman dari Tuhan akan segera tiba..utk manusia yg melakukan ketidak keadilan
+TUHAN MMBELA PASTI MENOLONG.NADIEM..",NADIEM,PER,person_nadiem,1.0,111,117
+296,297,"Penghakiman dari Tuhan akan segera tiba..utk manusia yg melakukan ketidak keadilan
+TUHAN MMBELA PASTI MENOLONG.NADIEM..",Tuhan,REG,religion_terms,1.0,17,22
+296,297,"Penghakiman dari Tuhan akan segera tiba..utk manusia yg melakukan ketidak keadilan
+TUHAN MMBELA PASTI MENOLONG.NADIEM..",TUHAN,REG,religion_terms,1.0,83,88
+297,298,Maka nya pak nadiem bpk haeus segera bongkar semua pemain korupsi agara bpk tidak sendiri menjalani nya.tidak usah takut pak nadiem maayarakat akan dukung bpk kalo bpk bongkar semua nya siapa aja di belakang bpk yg dapat jatah dan si penyuruh nya,nadiem,PER,person_nadiem,1.0,13,19
+297,298,Maka nya pak nadiem bpk haeus segera bongkar semua pemain korupsi agara bpk tidak sendiri menjalani nya.tidak usah takut pak nadiem maayarakat akan dukung bpk kalo bpk bongkar semua nya siapa aja di belakang bpk yg dapat jatah dan si penyuruh nya,nadiem,PER,person_nadiem,1.0,125,131
+297,298,Maka nya pak nadiem bpk haeus segera bongkar semua pemain korupsi agara bpk tidak sendiri menjalani nya.tidak usah takut pak nadiem maayarakat akan dukung bpk kalo bpk bongkar semua nya siapa aja di belakang bpk yg dapat jatah dan si penyuruh nya,korupsi,LAW,legal_terms,1.0,58,65
+298,299,Yang medzolimi Nadiem Makarim pasti Alloh balas dgn adzab yg pedih,Nadiem Makarim,PER,person_nadiem,1.0,15,29
+298,299,Yang medzolimi Nadiem Makarim pasti Alloh balas dgn adzab yg pedih,Alloh,REG,religion_terms,1.0,36,41
+298,299,Yang medzolimi Nadiem Makarim pasti Alloh balas dgn adzab yg pedih,adzab,REG,religion_terms,1.0,52,57
+300,301,Apakabar korupsi nilai kuadran triliun...kok tidak ada kabarnya...,korupsi,LAW,legal_terms,1.0,9,16
+302,303,"Sabar dan kuatkan mas Nadiem, kelak akan ada keadilan hakiki dari Allah SWT yang akan menghakimi hakim hari ini dan para partisannya",Nadiem,PER,person_nadiem,1.0,22,28
+302,303,"Sabar dan kuatkan mas Nadiem, kelak akan ada keadilan hakiki dari Allah SWT yang akan menghakimi hakim hari ini dan para partisannya",hakim,LAW,legal_terms,1.0,97,102
+302,303,"Sabar dan kuatkan mas Nadiem, kelak akan ada keadilan hakiki dari Allah SWT yang akan menghakimi hakim hari ini dan para partisannya",Allah,REG,religion_terms,1.0,66,71
+303,304,"Orang yang menuntut Nadim Makarim mungkin dia lah orang nya yg korupsi sesungguhnya, maling teriak maling , semoga ya Alloh orang2 yg mendzolimi Nadim Makarim cepat dapat azab nya, Amin amin amin 🙏",Nadim,PER,person_nadiem,1.0,20,25
+303,304,"Orang yang menuntut Nadim Makarim mungkin dia lah orang nya yg korupsi sesungguhnya, maling teriak maling , semoga ya Alloh orang2 yg mendzolimi Nadim Makarim cepat dapat azab nya, Amin amin amin 🙏",Nadim,PER,person_nadiem,1.0,145,150
+303,304,"Orang yang menuntut Nadim Makarim mungkin dia lah orang nya yg korupsi sesungguhnya, maling teriak maling , semoga ya Alloh orang2 yg mendzolimi Nadim Makarim cepat dapat azab nya, Amin amin amin 🙏",korupsi,LAW,legal_terms,1.0,63,70
+303,304,"Orang yang menuntut Nadim Makarim mungkin dia lah orang nya yg korupsi sesungguhnya, maling teriak maling , semoga ya Alloh orang2 yg mendzolimi Nadim Makarim cepat dapat azab nya, Amin amin amin 🙏",Alloh,REG,religion_terms,1.0,118,123
+306,307,Edan..Ud pak urusin gojek aj....bnyk manusia dajal di luar,gojek,ORG,org_gojek,1.0,20,25
+307,308,Spill dong JAKSA PENUNTUTNYA SIAPA biar Intel netizen menguliti itu Jaksa Penuntut,JAKSA,LAW,legal_terms,1.0,11,16
+307,308,Spill dong JAKSA PENUNTUTNYA SIAPA biar Intel netizen menguliti itu Jaksa Penuntut,Jaksa,LAW,legal_terms,1.0,68,73
+308,309,Gimana ini...masih ada yg peduli hukum ga...mana orang2 cerdas...jangan di biarkan hal kya gini ..jadi kebiasaan,hukum,LAW,legal_terms,1.0,33,38
+309,310,Ojol bersatu siap ratakan persiden,Ojol,ORG,org_gojek,1.0,0,4
+313,314,"Hukum Indonesia sudah hancur,penegak hukum nya merem semua",Indonesia,GPE,geo_indonesia,1.0,6,15
+313,314,"Hukum Indonesia sudah hancur,penegak hukum nya merem semua",Hukum,LAW,legal_terms,1.0,0,5
+313,314,"Hukum Indonesia sudah hancur,penegak hukum nya merem semua",hukum,LAW,legal_terms,1.0,37,42
+315,316,Edan ya. Nadiem dimafiakaan ini mau capluk gojek nya sama mafia,Nadiem,PER,person_nadiem,1.0,9,15
+315,316,Edan ya. Nadiem dimafiakaan ini mau capluk gojek nya sama mafia,gojek,ORG,org_gojek,1.0,43,48
+320,321,Tuntaskan para koruptor,koruptor,LAW,legal_terms,1.0,15,23
+321,322,Astaghfirullah.....ya Allah berikanlah pembalasan yang setimpal pada orang yg telah memfitnah Pak Nadiem siapapun orang itu ya Allah....Innamaa amruhuu  Idzaa arodasyaian ayyaku lalahu kunfayakun......,Nadiem,PER,person_nadiem,1.0,98,104
+321,322,Astaghfirullah.....ya Allah berikanlah pembalasan yang setimpal pada orang yg telah memfitnah Pak Nadiem siapapun orang itu ya Allah....Innamaa amruhuu  Idzaa arodasyaian ayyaku lalahu kunfayakun......,Allah,REG,religion_terms,1.0,22,27
+321,322,Astaghfirullah.....ya Allah berikanlah pembalasan yang setimpal pada orang yg telah memfitnah Pak Nadiem siapapun orang itu ya Allah....Innamaa amruhuu  Idzaa arodasyaian ayyaku lalahu kunfayakun......,Allah,REG,religion_terms,1.0,127,132
+323,324,"Dia rela meninggalkan ojol bang, memilih jadi menteri, sejak saat itu tarif ojol jadi gak seindah dulu...",ojol,ORG,org_gojek,1.0,22,26
+323,324,"Dia rela meninggalkan ojol bang, memilih jadi menteri, sejak saat itu tarif ojol jadi gak seindah dulu...",ojol,ORG,org_gojek,1.0,76,80
+324,325,"Hukum itu ditegakan berdasarkan fakta bukti,bukan asumsi,maling bisaja mengelak.",Hukum,LAW,legal_terms,1.0,0,5
+324,325,"Hukum itu ditegakan berdasarkan fakta bukti,bukan asumsi,maling bisaja mengelak.",bukti,LAW,legal_terms,1.0,38,43
+325,326,"enak saja. sementara ga yg memfonis Nadiem di azab Alloh sekluarganya, musibah datang silih berganti hingga ajal.menjemput.",Nadiem,PER,person_nadiem,1.0,36,42
+325,326,"enak saja. sementara ga yg memfonis Nadiem di azab Alloh sekluarganya, musibah datang silih berganti hingga ajal.menjemput.",Alloh,REG,religion_terms,1.0,51,56
+327,328,Jokowi aja tuh yg gantiin atau dipenjarakan,Jokowi,PER,person_jokowi,1.0,0,6
+331,332,Saham punya kan di grup gojek,gojek,ORG,org_gojek,1.0,24,29
+334,335,Hukum apa kah ini...,Hukum,LAW,legal_terms,1.0,0,5
+337,338,Kemana saja uang tersebut mestinya ditelusuri oleh penegak hukum,hukum,LAW,legal_terms,1.0,59,64
+339,340,kalian tau solusi nya pecat prabowo baru Indonesia sejahtera,prabowo,PER,person_public,1.0,28,35
+339,340,kalian tau solusi nya pecat prabowo baru Indonesia sejahtera,Indonesia,GPE,geo_indonesia,1.0,41,50
+341,342,Jokowi di lawan,Jokowi,PER,person_jokowi,1.0,0,6
+342,343,Jokowi malingnya,Jokowi,PER,person_jokowi,1.0,0,6
+343,344,"Ya jangan bohong Nadiem jujur saja seret jokowi,,,,",Nadiem,PER,person_nadiem,1.0,17,23
+343,344,"Ya jangan bohong Nadiem jujur saja seret jokowi,,,,",jokowi,PER,person_jokowi,1.0,41,47
+344,345,Gila hukum diindonesia,hukum,LAW,legal_terms,1.0,5,10
+345,346,Sebaiknya uang yang bapak serahkan ke Jokowi ambil kembali serahkan ke negara,Jokowi,PER,person_jokowi,1.0,38,44
+346,347,Kasihan pak Nadiem...kok bisa jg begini?...😢,Nadiem,PER,person_nadiem,1.0,12,18
+347,348,"hanya bawah""nya yg di tangkap di hukum, kepalanya/ biang kerok korupsinya aman"" aja",hukum,LAW,legal_terms,1.0,33,38
+351,352,"Gue bukan siapa2nya beliau..tapi ikut sakit hatiiii..
+Semoga para biadab yg menzholimi mendapat balasan hukuman Allah SWT.. Aamiin 🤲🤲",Allah,REG,religion_terms,1.0,112,117
+353,354,"Kesalahan Pak Nadiem cuma 1 yaitu : ""Menjadi Menteri Jokowi""",Nadiem,PER,person_nadiem,1.0,14,20
+353,354,"Kesalahan Pak Nadiem cuma 1 yaitu : ""Menjadi Menteri Jokowi""",Jokowi,PER,person_jokowi,1.0,53,59
+356,357,"Hanya Allah penolong kita. Bapak kita punya Allah yang maha adil. Minta ke adilan sama Allah. Dengan Solat taubat, Solat hajat. Tahajud dan istikoroh. Meminta sama Allah. Insya Alloh Allah akan membuktikan semua ini. Lakukan.",Allah,REG,religion_terms,1.0,6,11
+356,357,"Hanya Allah penolong kita. Bapak kita punya Allah yang maha adil. Minta ke adilan sama Allah. Dengan Solat taubat, Solat hajat. Tahajud dan istikoroh. Meminta sama Allah. Insya Alloh Allah akan membuktikan semua ini. Lakukan.",Allah,REG,religion_terms,1.0,44,49
+356,357,"Hanya Allah penolong kita. Bapak kita punya Allah yang maha adil. Minta ke adilan sama Allah. Dengan Solat taubat, Solat hajat. Tahajud dan istikoroh. Meminta sama Allah. Insya Alloh Allah akan membuktikan semua ini. Lakukan.",Allah,REG,religion_terms,1.0,87,92
+356,357,"Hanya Allah penolong kita. Bapak kita punya Allah yang maha adil. Minta ke adilan sama Allah. Dengan Solat taubat, Solat hajat. Tahajud dan istikoroh. Meminta sama Allah. Insya Alloh Allah akan membuktikan semua ini. Lakukan.",Allah,REG,religion_terms,1.0,164,169
+356,357,"Hanya Allah penolong kita. Bapak kita punya Allah yang maha adil. Minta ke adilan sama Allah. Dengan Solat taubat, Solat hajat. Tahajud dan istikoroh. Meminta sama Allah. Insya Alloh Allah akan membuktikan semua ini. Lakukan.",Alloh,REG,religion_terms,1.0,177,182
+356,357,"Hanya Allah penolong kita. Bapak kita punya Allah yang maha adil. Minta ke adilan sama Allah. Dengan Solat taubat, Solat hajat. Tahajud dan istikoroh. Meminta sama Allah. Insya Alloh Allah akan membuktikan semua ini. Lakukan.",Allah,REG,religion_terms,1.0,183,188
+357,358,Indonesia emas 2045 yg dicanangkan Jokowi dan luhut yg tinggal 19 thn lagi hanyalah omong kosong hayalan para dajal penipu,Jokowi,PER,person_jokowi,1.0,35,41
+357,358,Indonesia emas 2045 yg dicanangkan Jokowi dan luhut yg tinggal 19 thn lagi hanyalah omong kosong hayalan para dajal penipu,Indonesia,GPE,geo_indonesia,1.0,0,9
+358,359,Org pintar atau kaya pengusaha jgn mau masuk politik atau pemerintahan.. akan di jadikan korban berikutnya.. inilah hukum yg sangat kejam buat kita..,hukum,LAW,legal_terms,1.0,116,121
+359,360,"Nadiem hanya jadi tumbal sang raja koruptor, padahal nadiem riil menciptakan lapangan kerja jutaan orang.",Nadiem,PER,person_nadiem,1.0,0,6
+359,360,"Nadiem hanya jadi tumbal sang raja koruptor, padahal nadiem riil menciptakan lapangan kerja jutaan orang.",nadiem,PER,person_nadiem,1.0,53,59
+359,360,"Nadiem hanya jadi tumbal sang raja koruptor, padahal nadiem riil menciptakan lapangan kerja jutaan orang.",koruptor,LAW,legal_terms,1.0,35,43
+361,362,Seharusnya Jokowi yang harus dipenjara dan dibuang ke Nusakambangan,Jokowi,PER,person_jokowi,1.0,11,17
+364,365,"Sy setuju kamu d penjara...KRNA kamu JD Mentri gak amanah,..bukanya mendidik anak2 jadi parah kurikulum kamu yg buat",penjara,LAW,legal_terms,1.0,17,24
+365,366,"Dulu nadiem bela jokowi mati2an di program PIP,, skrg nadiem jd tumbal jokowi,, mungkin itulah hukuman nya,, kemana dana PIP yg dulu sempat di pertanyakan oleh wali murid, dan hanya di berikan senyuman oleh nadiem,, Tuhan maha adil,, menunjukan ketidak jujuran seseorang yg skrg kena batunya 🤔🙄",nadiem,PER,person_nadiem,1.0,5,11
+365,366,"Dulu nadiem bela jokowi mati2an di program PIP,, skrg nadiem jd tumbal jokowi,, mungkin itulah hukuman nya,, kemana dana PIP yg dulu sempat di pertanyakan oleh wali murid, dan hanya di berikan senyuman oleh nadiem,, Tuhan maha adil,, menunjukan ketidak jujuran seseorang yg skrg kena batunya 🤔🙄",nadiem,PER,person_nadiem,1.0,54,60
+365,366,"Dulu nadiem bela jokowi mati2an di program PIP,, skrg nadiem jd tumbal jokowi,, mungkin itulah hukuman nya,, kemana dana PIP yg dulu sempat di pertanyakan oleh wali murid, dan hanya di berikan senyuman oleh nadiem,, Tuhan maha adil,, menunjukan ketidak jujuran seseorang yg skrg kena batunya 🤔🙄",nadiem,PER,person_nadiem,1.0,207,213
+365,366,"Dulu nadiem bela jokowi mati2an di program PIP,, skrg nadiem jd tumbal jokowi,, mungkin itulah hukuman nya,, kemana dana PIP yg dulu sempat di pertanyakan oleh wali murid, dan hanya di berikan senyuman oleh nadiem,, Tuhan maha adil,, menunjukan ketidak jujuran seseorang yg skrg kena batunya 🤔🙄",jokowi,PER,person_jokowi,1.0,17,23
+365,366,"Dulu nadiem bela jokowi mati2an di program PIP,, skrg nadiem jd tumbal jokowi,, mungkin itulah hukuman nya,, kemana dana PIP yg dulu sempat di pertanyakan oleh wali murid, dan hanya di berikan senyuman oleh nadiem,, Tuhan maha adil,, menunjukan ketidak jujuran seseorang yg skrg kena batunya 🤔🙄",jokowi,PER,person_jokowi,1.0,71,77
+365,366,"Dulu nadiem bela jokowi mati2an di program PIP,, skrg nadiem jd tumbal jokowi,, mungkin itulah hukuman nya,, kemana dana PIP yg dulu sempat di pertanyakan oleh wali murid, dan hanya di berikan senyuman oleh nadiem,, Tuhan maha adil,, menunjukan ketidak jujuran seseorang yg skrg kena batunya 🤔🙄",Tuhan,REG,religion_terms,1.0,216,221
+366,367,hukum macam apa ini😢,hukum,LAW,legal_terms,1.0,0,5
+367,368,Minta ke jokowi yang menjebloskan dia...,jokowi,PER,person_jokowi,1.0,9,15
+368,369,Masya Alloh ..kok jadi sekian milyard,Alloh,REG,religion_terms,1.0,6,11
+369,370,"siap siap warga indonesia, investor akan ga mau masuk kesini, ini nadim salah satu pionernya yang cukup berhasil
+
+siap siap pengangguran meningkat
+
+gila bener hukum indonesia",nadim,PER,person_nadiem,1.0,66,71
+369,370,"siap siap warga indonesia, investor akan ga mau masuk kesini, ini nadim salah satu pionernya yang cukup berhasil
+
+siap siap pengangguran meningkat
+
+gila bener hukum indonesia",indonesia,GPE,geo_indonesia,1.0,16,25
+369,370,"siap siap warga indonesia, investor akan ga mau masuk kesini, ini nadim salah satu pionernya yang cukup berhasil
+
+siap siap pengangguran meningkat
+
+gila bener hukum indonesia",indonesia,GPE,geo_indonesia,1.0,165,174
+369,370,"siap siap warga indonesia, investor akan ga mau masuk kesini, ini nadim salah satu pionernya yang cukup berhasil
+
+siap siap pengangguran meningkat
+
+gila bener hukum indonesia",hukum,LAW,legal_terms,1.0,159,164
+372,373,Saya percaya dengan kejujurannya tidak korupsi. Nadiem orang baik berada di lingkungan yang kurang baik,Nadiem,PER,person_nadiem,1.0,48,54
+372,373,Saya percaya dengan kejujurannya tidak korupsi. Nadiem orang baik berada di lingkungan yang kurang baik,korupsi,LAW,legal_terms,1.0,39,46
+373,374,Masih banggakah anda hidup di negara Indonesia?,Indonesia,GPE,geo_indonesia,1.0,37,46
+374,375,"Aduh..
+Yg sabar mas, tu lah  Indonesia hukum semakin bobrok",Indonesia,GPE,geo_indonesia,1.0,29,38
+374,375,"Aduh..
+Yg sabar mas, tu lah  Indonesia hukum semakin bobrok",hukum,LAW,legal_terms,1.0,39,44
+375,376,Jokowi bertanggung jawab,Jokowi,PER,person_jokowi,1.0,0,6
+377,378,Hukum remuk di negri ini....Konoha...,Hukum,LAW,legal_terms,1.0,0,5
+378,379,"Bilang Jokowi aja P Nadiem ,suruh fanti uang Penggantinya...",Nadiem,PER,person_nadiem,1.0,20,26
+378,379,"Bilang Jokowi aja P Nadiem ,suruh fanti uang Penggantinya...",Jokowi,PER,person_jokowi,1.0,7,13
+379,380,Siapa suruh mau jadi menterinya jokowi,jokowi,PER,person_jokowi,1.0,32,38
+382,383,Wah pasang badan dia hukum ambil hrta  .gledah lah..,hukum,LAW,legal_terms,1.0,21,26
+384,385,KORBAN REZIMNYA JOKOWI INI,JOKOWI,PER,person_jokowi,1.0,16,22
+385,386,"Udh bagus jadi boss gojek, eh tergiur bujuk rayu si ...., habis dah luh...",gojek,ORG,org_gojek,1.0,20,25
+386,387,Mangkanya kalau Pilpres jangan mau di bayar dg uang ratusan ribu,Pilpres,EVT,event_terms,1.0,16,23
+387,388,"Alhamdulillah aku sebagai mertua tak pernah  ikut campur rumah tangga anakku,,dan menantuku seperti anak ku sendiri saling melengkapi dan menyayangi dan menghargai libur mantu❤❤❤",Alhamdulillah,REG,religion_terms,1.0,0,13
+388,389,"Saya bukan ahli hukum pidana 
+Tapi hakim memvonis sesuai fakta di persidangan, apakah Anda menuduh hakim di suap atau berlaku tidal adil? Terima saja jika kemudian keberatan maka silahkn banding",hukum,LAW,legal_terms,1.0,16,21
+388,389,"Saya bukan ahli hukum pidana 
+Tapi hakim memvonis sesuai fakta di persidangan, apakah Anda menuduh hakim di suap atau berlaku tidal adil? Terima saja jika kemudian keberatan maka silahkn banding",hakim,LAW,legal_terms,1.0,35,40
+388,389,"Saya bukan ahli hukum pidana 
+Tapi hakim memvonis sesuai fakta di persidangan, apakah Anda menuduh hakim di suap atau berlaku tidal adil? Terima saja jika kemudian keberatan maka silahkn banding",hakim,LAW,legal_terms,1.0,99,104
+391,392,Tumbal jokowi...sdh jls2 sebut nama jokowi...tp jokowi tdk ditangkap..,jokowi,PER,person_jokowi,1.0,7,13
+391,392,Tumbal jokowi...sdh jls2 sebut nama jokowi...tp jokowi tdk ditangkap..,jokowi,PER,person_jokowi,1.0,36,42
+391,392,Tumbal jokowi...sdh jls2 sebut nama jokowi...tp jokowi tdk ditangkap..,jokowi,PER,person_jokowi,1.0,48,54
+393,394,"Tenang aja bang Nadim, Allah Maha Tau, siapa yg benar dan siapa yg salah",Nadim,PER,person_nadiem,1.0,16,21
+393,394,"Tenang aja bang Nadim, Allah Maha Tau, siapa yg benar dan siapa yg salah",Allah,REG,religion_terms,1.0,23,28
+394,395,"Nadiem d kriminalisasi,.",Nadiem,PER,person_nadiem,1.0,0,6
+395,396,"Yaa Allah, di mana keadilan di hati penegak hukum?",hukum,LAW,legal_terms,1.0,44,49
+395,396,"Yaa Allah, di mana keadilan di hati penegak hukum?",Allah,REG,religion_terms,1.0,4,9
+396,397,"Saya ingat Saat Saham GOTO  Rp. 800 perlembar  saat ini  sisa <- Rp 50,-",GOTO,ORG,org_gojek,1.0,22,26
+396,397,"Saya ingat Saat Saham GOTO  Rp. 800 perlembar  saat ini  sisa <- Rp 50,-",Rp 50,MON,money_terms,1.0,65,70
+397,398,Kacau hukum di negara ini,hukum,LAW,legal_terms,1.0,6,11
+398,399,Mengerikan ya Allah,Allah,REG,religion_terms,1.0,14,19
+400,401,Gila banget. Yg korupsi siapa yg jadi tumbal justru orang jujur anak bangsa yg mau memajukan negeri ini. Gila hukum di negeri ini. TUHAN TIDAK TIDUR. PEMBALASAN DARI TUHAN BUAT ORANG YG SDH MENZOLIMI PAK NADIEM MAKARIM,NADIEM MAKARIM,PER,person_nadiem,1.0,204,218
+400,401,Gila banget. Yg korupsi siapa yg jadi tumbal justru orang jujur anak bangsa yg mau memajukan negeri ini. Gila hukum di negeri ini. TUHAN TIDAK TIDUR. PEMBALASAN DARI TUHAN BUAT ORANG YG SDH MENZOLIMI PAK NADIEM MAKARIM,korupsi,LAW,legal_terms,1.0,16,23
+400,401,Gila banget. Yg korupsi siapa yg jadi tumbal justru orang jujur anak bangsa yg mau memajukan negeri ini. Gila hukum di negeri ini. TUHAN TIDAK TIDUR. PEMBALASAN DARI TUHAN BUAT ORANG YG SDH MENZOLIMI PAK NADIEM MAKARIM,hukum,LAW,legal_terms,1.0,110,115
+400,401,Gila banget. Yg korupsi siapa yg jadi tumbal justru orang jujur anak bangsa yg mau memajukan negeri ini. Gila hukum di negeri ini. TUHAN TIDAK TIDUR. PEMBALASAN DARI TUHAN BUAT ORANG YG SDH MENZOLIMI PAK NADIEM MAKARIM,TUHAN,REG,religion_terms,1.0,131,136
+400,401,Gila banget. Yg korupsi siapa yg jadi tumbal justru orang jujur anak bangsa yg mau memajukan negeri ini. Gila hukum di negeri ini. TUHAN TIDAK TIDUR. PEMBALASAN DARI TUHAN BUAT ORANG YG SDH MENZOLIMI PAK NADIEM MAKARIM,TUHAN,REG,religion_terms,1.0,166,171
+401,402,"Sungguh besar jasa Jokowi, menjadikan Nadim jadi terkenal....",Nadim,PER,person_nadiem,1.0,38,43
+401,402,"Sungguh besar jasa Jokowi, menjadikan Nadim jadi terkenal....",Jokowi,PER,person_jokowi,1.0,19,25
+404,405,"HAKIM2 SUDAH GAK TAKUT DENGAN NAMANYA DOSA..
+MEREKA BEKERJA BUKAN SEBAGAI PENEGAK HUKUM TUHAN..",HUKUM,LAW,legal_terms,1.0,82,87
+404,405,"HAKIM2 SUDAH GAK TAKUT DENGAN NAMANYA DOSA..
+MEREKA BEKERJA BUKAN SEBAGAI PENEGAK HUKUM TUHAN..",TUHAN,REG,religion_terms,1.0,88,93
+406,407,prabowo kocak,prabowo,PER,person_public,1.0,0,7
+407,408,"Nadim juga bersalah lah
+Saya yakin ALLAH maha tau
+Makanya ditegur sama Allah 
+Berarti Allah sayang sama Nadim to 😂😂😂",Nadim,PER,person_nadiem,1.0,0,5
+407,408,"Nadim juga bersalah lah
+Saya yakin ALLAH maha tau
+Makanya ditegur sama Allah 
+Berarti Allah sayang sama Nadim to 😂😂😂",Nadim,PER,person_nadiem,1.0,104,109
+407,408,"Nadim juga bersalah lah
+Saya yakin ALLAH maha tau
+Makanya ditegur sama Allah 
+Berarti Allah sayang sama Nadim to 😂😂😂",ALLAH,REG,religion_terms,1.0,35,40
+407,408,"Nadim juga bersalah lah
+Saya yakin ALLAH maha tau
+Makanya ditegur sama Allah 
+Berarti Allah sayang sama Nadim to 😂😂😂",Allah,REG,religion_terms,1.0,71,76
+407,408,"Nadim juga bersalah lah
+Saya yakin ALLAH maha tau
+Makanya ditegur sama Allah 
+Berarti Allah sayang sama Nadim to 😂😂😂",Allah,REG,religion_terms,1.0,86,91
+408,409,Justru penegak hukum menegakkan lurus ke atas,hukum,LAW,legal_terms,1.0,15,20
+409,410,"Saya Temannya Mulyono, Mereka Tau itu",Mulyono,PER,person_jokowi,1.0,14,21
+410,411,Sudah jelas jelas koruptor malah di bela aneh😅,koruptor,LAW,legal_terms,1.0,18,26
+411,412,"pendukung nadiem = pendukung jurist tan = pendukung kuruptor.
+itu fakta",nadiem,PER,person_nadiem,1.0,10,16
+412,413,Pasti menyesal ya pa Nadim pulang untuk bakti di negri sendiri....kecewa pasti ya pa...makanya banyak orang pintar berkalir diluar negri..karena di dalam negri tidak ada penghargaannya...,Nadim,PER,person_nadiem,1.0,21,26
+414,415,Saya bermimpi indonesia mengalami krismon ngerii .. orang biasa pada kelaparan dan saling membunuh .. orang yg punya jabatan menimbun bahan pangan secara diam diam ..saya dan warga lainya mencuri bahan pangan tersebut lalu ketahuan .. kami di kejar kejar ormas lalu di bacoki,indonesia,GPE,geo_indonesia,1.0,14,23
+417,418,Buka saja bung Nadim tentu semua itu pasti ada yg memerintahkan nya,Nadim,PER,person_nadiem,1.0,15,20
+420,421,"Yg bener di dzolomi
+Yg koruptor di pelihara ..
+Setan emangg",koruptor,LAW,legal_terms,1.0,23,31
+421,422,"Ok, makin ga yakin sama penegak hukum di negri ini😂",hukum,LAW,legal_terms,1.0,32,37
+423,424,"jokowi harus tanggung jawab, sekeluarga sampai seluruh keturunannya terkutuk, dan disisi lain, prabowo anteng2 😢",jokowi,PER,person_jokowi,1.0,0,6
+423,424,"jokowi harus tanggung jawab, sekeluarga sampai seluruh keturunannya terkutuk, dan disisi lain, prabowo anteng2 😢",prabowo,PER,person_public,1.0,95,102
+424,425,"Sudah gila korban malah di kriminalisasi, 
+Jokodok malah gak diapa apain, 
+Seret jokodok",Jokodok,PER,person_jokowi,1.0,43,50
+424,425,"Sudah gila korban malah di kriminalisasi, 
+Jokodok malah gak diapa apain, 
+Seret jokodok",jokodok,PER,person_jokowi,1.0,81,88
+425,426,"Aduh, kemunduran bbrp generasi kedepan, generasi muda yg hebat ga akan sudi mengabdi untuk negara bobrok spt ini. Menyedihkan pemimpin negara ini skrg, Indonesia suram 😢",Indonesia,GPE,geo_indonesia,1.0,152,161
+427,428,Tinggal nunggu musibah di indonesia biar org2 dzolim hilang dan lenyap dr indonesia,indonesia,GPE,geo_indonesia,1.0,26,35
+427,428,Tinggal nunggu musibah di indonesia biar org2 dzolim hilang dan lenyap dr indonesia,indonesia,GPE,geo_indonesia,1.0,74,83
+428,429,"Tenang pak .........rakyat sdh byk yg tau sistem krj pengadilan di negri KONOHA ini .
+Vonus 15 th cm sebg formalitas unt   publik.....😂😂😂😂😂....
+Endingnya setlh masa tahanan  berjalan , gx smp 10 th atau bahkan cm  5 th sj, bpk sdh bs bebas......
+Lg pl di rutan bpk tetap bs mendapatkan pelayanan yg eksekutif........
+Ruang tahanan kelas VIP dgn fasilitas selayaknya di hotel.
+Kamar yg di lengkapi dgn kmr mnd dalam, AC, TV, bahkan bs jd ada lemari es ....dan bahkan ada hari dan jam tertentu unt bpk bs keluar dr rutan sekedar menghirup udara  bebas, ngademi hati jg mencerahkan pikiran dgn dtg ke kafe 😂😂😂😂😂
+Nmnya jg terpidana kelas atas unt org2 berduit yg pernah menjabat di pemerintahan.
+Tetap di beri fasilitas ekstra",pengadilan,LAW,legal_terms,1.0,53,63
+429,430,Ulah jokowi,jokowi,PER,person_jokowi,1.0,5,11
+432,433,"Tangkap jokowi , semua mentri jokowi hanya dimanfaatkan untuk kepentingan jokowi dan keluarganya. Jokowi manusia terjahat di abad ini ,namun sejahat jahatnya jokowi ,lebih jahat lagi para pendukung jokowi dan orang orang yang memuji muji jokowi.",jokowi,PER,person_jokowi,1.0,8,14
+432,433,"Tangkap jokowi , semua mentri jokowi hanya dimanfaatkan untuk kepentingan jokowi dan keluarganya. Jokowi manusia terjahat di abad ini ,namun sejahat jahatnya jokowi ,lebih jahat lagi para pendukung jokowi dan orang orang yang memuji muji jokowi.",jokowi,PER,person_jokowi,1.0,30,36
+432,433,"Tangkap jokowi , semua mentri jokowi hanya dimanfaatkan untuk kepentingan jokowi dan keluarganya. Jokowi manusia terjahat di abad ini ,namun sejahat jahatnya jokowi ,lebih jahat lagi para pendukung jokowi dan orang orang yang memuji muji jokowi.",jokowi,PER,person_jokowi,1.0,74,80
+432,433,"Tangkap jokowi , semua mentri jokowi hanya dimanfaatkan untuk kepentingan jokowi dan keluarganya. Jokowi manusia terjahat di abad ini ,namun sejahat jahatnya jokowi ,lebih jahat lagi para pendukung jokowi dan orang orang yang memuji muji jokowi.",Jokowi,PER,person_jokowi,1.0,98,104
+432,433,"Tangkap jokowi , semua mentri jokowi hanya dimanfaatkan untuk kepentingan jokowi dan keluarganya. Jokowi manusia terjahat di abad ini ,namun sejahat jahatnya jokowi ,lebih jahat lagi para pendukung jokowi dan orang orang yang memuji muji jokowi.",jokowi,PER,person_jokowi,1.0,158,164
+432,433,"Tangkap jokowi , semua mentri jokowi hanya dimanfaatkan untuk kepentingan jokowi dan keluarganya. Jokowi manusia terjahat di abad ini ,namun sejahat jahatnya jokowi ,lebih jahat lagi para pendukung jokowi dan orang orang yang memuji muji jokowi.",jokowi,PER,person_jokowi,1.0,198,204
+432,433,"Tangkap jokowi , semua mentri jokowi hanya dimanfaatkan untuk kepentingan jokowi dan keluarganya. Jokowi manusia terjahat di abad ini ,namun sejahat jahatnya jokowi ,lebih jahat lagi para pendukung jokowi dan orang orang yang memuji muji jokowi.",jokowi,PER,person_jokowi,1.0,238,244
+434,435,"Tuhan tidak tidur ,semoga Tuhan menidurkan pemimpin yg berbuat zalim",Tuhan,REG,religion_terms,1.0,0,5
+434,435,"Tuhan tidak tidur ,semoga Tuhan menidurkan pemimpin yg berbuat zalim",Tuhan,REG,religion_terms,1.0,26,31
+436,437,"Yg jelas2 koruptor milyaran sampai trilyunan cm didenda ratusan juta dn gak disita asetnya,,, memang gak adil",koruptor,LAW,legal_terms,1.0,10,18
+437,438,Para Koruptor bajingan mengkambing hitamkan orang tak bersalah. Zholim pada orang yang lemah akan berbalik kepadanya.,Koruptor,LAW,legal_terms,1.0,5,13
+441,442,Y Allah ..gini amat hukum Indonesia,Indonesia,GPE,geo_indonesia,1.0,26,35
+441,442,Y Allah ..gini amat hukum Indonesia,hukum,LAW,legal_terms,1.0,20,25
+441,442,Y Allah ..gini amat hukum Indonesia,Allah,REG,religion_terms,1.0,2,7
+442,443,Adili Jokowi yg terlibat😊,Jokowi,PER,person_jokowi,1.0,6,12
+443,444,"Tinggal terus terang aja Nadiem , tangkurak Jokowi seret aja nggak usah takut mengungkap kebenaran",Nadiem,PER,person_nadiem,1.0,25,31
+443,444,"Tinggal terus terang aja Nadiem , tangkurak Jokowi seret aja nggak usah takut mengungkap kebenaran",Jokowi,PER,person_jokowi,1.0,44,50
+448,449,"Jokowi yg punya ,",Jokowi,PER,person_jokowi,1.0,0,6
+449,450,Yg vonis smoga kena azab,vonis,LAW,legal_terms,1.0,3,8
+450,451,jangan mau bayar pak nadiem mereka saja yang bayar sudah bertahun tahun kenyang perut makan uang negara,nadiem,PER,person_nadiem,1.0,21,27
+453,454,pak nadiem dan pak jaksa dari wajah saja sudah tahu siapa yang jahat pak hakim dan jaksa seperti setan,nadiem,PER,person_nadiem,1.0,4,10
+453,454,pak nadiem dan pak jaksa dari wajah saja sudah tahu siapa yang jahat pak hakim dan jaksa seperti setan,jaksa,LAW,legal_terms,1.0,19,24
+453,454,pak nadiem dan pak jaksa dari wajah saja sudah tahu siapa yang jahat pak hakim dan jaksa seperti setan,hakim,LAW,legal_terms,1.0,73,78
+453,454,pak nadiem dan pak jaksa dari wajah saja sudah tahu siapa yang jahat pak hakim dan jaksa seperti setan,jaksa,LAW,legal_terms,1.0,83,88
+454,455,sabar pak nadiem allah akan membantu anda amin,nadiem,PER,person_nadiem,1.0,10,16
+454,455,sabar pak nadiem allah akan membantu anda amin,allah,REG,religion_terms,1.0,17,22
+455,456,sini kamu hakim tuyul jaksa jahat bertinju sama aku kamu yang makan uang negara mau sombong kamu yah jabatan jangan kamu buat main main yah,hakim,LAW,legal_terms,1.0,10,15
+455,456,sini kamu hakim tuyul jaksa jahat bertinju sama aku kamu yang makan uang negara mau sombong kamu yah jabatan jangan kamu buat main main yah,jaksa,LAW,legal_terms,1.0,22,27
+456,457,serang terus pak nadiem di zalimi,nadiem,PER,person_nadiem,1.0,17,23
+457,458,Minta ke jokowi,jokowi,PER,person_jokowi,1.0,9,15
+458,459,JIKA PERJALANAN HUKUM MASIH BEGINI  NEGARA TIDAK AKAN MAJU,HUKUM,LAW,legal_terms,1.0,16,21
+461,462,"Koruptor yang udh masuk penjara pun tertawa, merka akan bebas cuma 5tahun dong ,pak Nadiem yang menanggung hukum an merka",Nadiem,PER,person_nadiem,1.0,84,90
+461,462,"Koruptor yang udh masuk penjara pun tertawa, merka akan bebas cuma 5tahun dong ,pak Nadiem yang menanggung hukum an merka",Koruptor,LAW,legal_terms,1.0,0,8
+461,462,"Koruptor yang udh masuk penjara pun tertawa, merka akan bebas cuma 5tahun dong ,pak Nadiem yang menanggung hukum an merka",penjara,LAW,legal_terms,1.0,24,31
+461,462,"Koruptor yang udh masuk penjara pun tertawa, merka akan bebas cuma 5tahun dong ,pak Nadiem yang menanggung hukum an merka",hukum,LAW,legal_terms,1.0,107,112
+461,462,"Koruptor yang udh masuk penjara pun tertawa, merka akan bebas cuma 5tahun dong ,pak Nadiem yang menanggung hukum an merka",5tahun,QTY,quantity_terms,1.0,67,73
+462,463,Bukti dan fakta : Tidak ada MALING itu ngaku...,Bukti,LAW,legal_terms,1.0,0,5
+463,464,Seger kan jadi another jokodok .,jokodok,PER,person_jokowi,1.0,23,30
+465,466,"Yg dipersidangan mana sj disebutkan 1 nama tdk prh tersentuh,,,krn dia prh berkuasa,,,,sy lbh percaya nadiem,,,sabar ya pak",nadiem,PER,person_nadiem,1.0,102,108
+466,467,2030 Indonesia bubar,Indonesia,GPE,geo_indonesia,1.0,5,14
+467,468,Seret Jokowi juga biar ada teumeun nya pak nadim,nadim,PER,person_nadiem,1.0,43,48
+467,468,Seret Jokowi juga biar ada teumeun nya pak nadim,Jokowi,PER,person_jokowi,1.0,6,12
+470,471,"Aturan dan hukum ada di Jokowi , sekarang anda yg jadi tumbal kebiadaban Jokowi. 😅😅😅😅",Jokowi,PER,person_jokowi,1.0,24,30
+470,471,"Aturan dan hukum ada di Jokowi , sekarang anda yg jadi tumbal kebiadaban Jokowi. 😅😅😅😅",Jokowi,PER,person_jokowi,1.0,73,79
+470,471,"Aturan dan hukum ada di Jokowi , sekarang anda yg jadi tumbal kebiadaban Jokowi. 😅😅😅😅",hukum,LAW,legal_terms,1.0,11,16
+472,473,tumbal Mulyono,Mulyono,PER,person_jokowi,1.0,7,14
+478,479,"Orang yang sudah berkontribusi di Indonesia,dengan gojek,jutaan manusia bisa hidup, menciptakan lapangan kerja,mana janji 19 juta lapangan kerja yang belum ada buktinya",gojek,ORG,org_gojek,1.0,51,56
+478,479,"Orang yang sudah berkontribusi di Indonesia,dengan gojek,jutaan manusia bisa hidup, menciptakan lapangan kerja,mana janji 19 juta lapangan kerja yang belum ada buktinya",Indonesia,GPE,geo_indonesia,1.0,34,43
+478,479,"Orang yang sudah berkontribusi di Indonesia,dengan gojek,jutaan manusia bisa hidup, menciptakan lapangan kerja,mana janji 19 juta lapangan kerja yang belum ada buktinya",19 juta,MON,money_terms,1.0,122,129
+479,480,Gpp Kon salahe Kon korupsi,korupsi,LAW,legal_terms,1.0,19,26
+480,481,Jaman nya jokowi gitu lo... Begini ini.. Astagfirullah..,jokowi,PER,person_jokowi,1.0,10,16
+481,482,"Hukum sudah gila,Indonesia akantercerai berai,jika cara begini di anggap benar.GILA.....!!! Dzolimmm",Indonesia,GPE,geo_indonesia,1.0,17,26
+481,482,"Hukum sudah gila,Indonesia akantercerai berai,jika cara begini di anggap benar.GILA.....!!! Dzolimmm",Hukum,LAW,legal_terms,1.0,0,5
+483,484,hayo bang hotman.. tolong all out buat nadiem. Dia korban si jeck firaun kota oslo,nadiem,PER,person_nadiem,1.0,39,45
+483,484,hayo bang hotman.. tolong all out buat nadiem. Dia korban si jeck firaun kota oslo,hotman,PER,person_public,1.0,10,16
+484,485,Serem bgt keadilan di Indonesia ini😢,Indonesia,GPE,geo_indonesia,1.0,22,31
+485,486,Semoga yang zolim mendapatkan balasan dari yang Kuasa dpt azab Allah yang pedih 😢😢,Allah,REG,religion_terms,1.0,63,68
+486,487,"Jokowi gmn...ko ga  ditangkap....enk amat dia.
+.!",Jokowi,PER,person_jokowi,1.0,0,6
+487,488,ada yang mau saham goto.. segala cara dimainin...,goto,ORG,org_gojek,1.0,19,23
+490,491,"Mamam tu, berlumut dah d penjara",penjara,LAW,legal_terms,1.0,25,32
+491,492,Udah kalau korupsi jangan mengelak dong,korupsi,LAW,legal_terms,1.0,11,18
+492,493,"selamat pak prabowo, bapak sukses bikin generasi muda Indonesia mikir2 berkontribusi pada negara 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼",prabowo,PER,person_public,1.0,12,19
+492,493,"selamat pak prabowo, bapak sukses bikin generasi muda Indonesia mikir2 berkontribusi pada negara 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼",Indonesia,GPE,geo_indonesia,1.0,54,63
+493,494,"Gak apa2 nanti 15 th lagi susa masih banyak , coba UU perampasan aset di sahkan & di laksanakan pasti para pejabat gak bakan berani korupsi",korupsi,LAW,legal_terms,1.0,132,139
+494,495,"Kenapa ,ya,,,yg disebut sebut ,sbg penerima upeti ,gak di hadirkan sbg saksi...
+Hukum yg buta dan berirama.....",Hukum,LAW,legal_terms,1.0,80,85
+495,496,Pendukung koruptor,koruptor,LAW,legal_terms,1.0,10,18
+497,498,Lu ngedukung koruptor ya?,koruptor,LAW,legal_terms,1.0,13,21
+498,499,Percaya omongan koruptor berarti tidak akan ada koruptor yang di penjara,koruptor,LAW,legal_terms,1.0,16,24
+498,499,Percaya omongan koruptor berarti tidak akan ada koruptor yang di penjara,koruptor,LAW,legal_terms,1.0,48,56
+498,499,Percaya omongan koruptor berarti tidak akan ada koruptor yang di penjara,penjara,LAW,legal_terms,1.0,65,72
+499,500,​ @kamaruddinsahabu8669 kelak akan tiba saatnya kamu NGRASAKAN spt yg dirasakan pak Nadiem ini persis SESUAI  UCAPANmu,Nadiem,PER,person_nadiem,1.0,84,90

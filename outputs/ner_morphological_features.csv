@@ -1,0 +1,13 @@
+Feature Name,Explanation,Example
+TitleCase,Begin with uppercase letter and followed by lowercase letter,Soedirman
+UpperCase,All uppercase letter,KPU
+LowerCase,All lowercase letter,menuntut
+MixedCase,Uppercase and lowercase letter,LeIP
+CapStart,Begin with uppercase letter,"LeIP, Muhammad"
+CharDigit,Letter and number,P3K
+Digit,All number,2004
+DigitSlash,Number with slash,17/5
+Numeric,Number with dot or comma,"20,5; 17.500,00"
+NumStr,Number in word,"satu, tujuh, lima"
+Roman,Roman number,"VII, XI"
+TimeForm,Number in time format,"17:05, 19.30"

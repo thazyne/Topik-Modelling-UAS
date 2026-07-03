@@ -1,0 +1,85 @@
+Token string,Token kind,Contextual features,Morphological features,Part-of-speech features
+Kasus,WORD,,"TitleCase, CapStart",OOV
+nya,WORD,,LowerCase,OOV
+makarim,WORD,,LowerCase,OOV
+apa,WORD,,LowerCase,OOV
+?,OPUNC,,,
+INDOSURYA,WORD,,"UpperCase, CapStart",OOV
+YANG,WORD,,"UpperCase, CapStart",OOV
+MERAMPOK,WORD,,"UpperCase, CapStart",VACT
+UANG,WORD,,"UpperCase, CapStart",NOUN
+KORBAN,WORD,,"UpperCase, CapStart",OOV
+"16,3",NUM,,Numeric,NUM
+triliun,WORD,,LowerCase,OOV
+dan,WORD,,LowerCase,C
+serara,WORD,,LowerCase,OOV
+keseluruhan,WORD,,LowerCase,OOV
+dari,WORD,LOPP,LowerCase,PREP
+23,NUM,,Digit,NUM
+ribu,WORD,,"NumStr, LowerCase",NUM
+nasabahnya,WORD,,LowerCase,OOV
+total,WORD,,LowerCase,OOV
+106,NUM,,Digit,NUM
+triliun,WORD,,LowerCase,OOV
+.,OPUNC,,,
+Tapj,WORD,,"TitleCase, CapStart",OOV
+Mahkamah,WORD,,"TitleCase, CapStart",OOV
+Agung,WORD,,"TitleCase, CapStart",OOV
+menjatuhkan,WORD,,LowerCase,VACT
+vonis,WORD,,LowerCase,OOV
+18,NUM,,Digit,NUM
+tahun,WORD,,LowerCase,OOV
+penjara,WORD,,LowerCase,NOUN
+dan,WORD,,LowerCase,C
+denda,WORD,,LowerCase,OOV
+hanya,WORD,,LowerCase,OOV
+Rp,WORD,,"TitleCase, CapStart",OOV
+15,NUM,,Digit,NUM
+miliar,WORD,,"NumStr, LowerCase",NUM
+kepada,WORD,,LowerCase,OOV
+pimpinan,WORD,,LowerCase,OOV
+Koperasi,WORD,,"TitleCase, CapStart",OOV
+Simpan,WORD,,"TitleCase, CapStart",OOV
+Pinjam,WORD,,"TitleCase, CapStart",OOV
+(,SPUNC,,,
+KSP,WORD,,"UpperCase, CapStart",OOV
+),EPUNC,,,
+Indosurya,WORD,,"TitleCase, CapStart",OOV
+",",OPUNC,,,
+Henry,WORD,,"TitleCase, CapStart",OOV
+Surya,WORD,,"TitleCase, CapStart",OOV
+",",OPUNC,,,
+yang,WORD,,LowerCase,OOV
+diduga,WORD,,LowerCase,VPAS
+merugikan,WORD,,LowerCase,VACT
+23,NUM,,Digit,NUM
+ribu,WORD,,"NumStr, LowerCase",NUM
+orang,WORD,,LowerCase,OOV
+",",OPUNC,,,
+dengan,WORD,,LowerCase,OOV
+total,WORD,,LowerCase,OOV
+kerugian,WORD,,LowerCase,OOV
+disebut,WORD,,LowerCase,VPAS
+mencapai,WORD,,LowerCase,VACT
+Rp,WORD,,"TitleCase, CapStart",OOV
+106,NUM,,Digit,NUM
+triliun,WORD,,LowerCase,OOV
+Dan,WORD,,"TitleCase, CapStart",C
+saat,WORD,,LowerCase,OOV
+ini,WORD,,LowerCase,OOV
+uang,WORD,,LowerCase,NOUN
+dan,WORD,,LowerCase,C
+aset,WORD,,LowerCase,OOV
+yg,WORD,,LowerCase,OOV
+masih,WORD,,LowerCase,OOV
+ada,WORD,,LowerCase,OOV
+blm,WORD,,LowerCase,OOV
+jelas,WORD,,LowerCase,OOV
+kapan,WORD,,LowerCase,OOV
+akan,WORD,,LowerCase,MODAL
+di,WORD,LOPP,LowerCase,PREP
+kembalikan,WORD,,LowerCase,OOV
+kepada,WORD,,LowerCase,OOV
+para,WORD,,LowerCase,OOV
+korban,WORD,,LowerCase,OOV
+.,OPUNC,,,

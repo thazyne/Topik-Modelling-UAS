@@ -1,0 +1,7 @@
+Rule ID,IF,THEN,Contoh
+R1_ORG_AFTER_POSITION,Token[i].Kind='WORD' AND Token[i].OPOS AND Token[i+1].Kind='WORD' AND (Token[i+1].TitleCase OR Token[i+1].CapStart OR Token[i+1].OCON),Token[i+1].NE='ORGANIZATION',Ketua Gojek / Menteri Kemendikbud
+R2_PERSON_AFTER_PREFIX,Token[i].Kind='WORD' AND (Token[i].PPRE OR Token[i].PTIT) AND Token[i+1].Kind='WORD' AND (Token[i+1].TitleCase OR Token[i+1].CapStart),Token[i+1].NE='PERSON',Pak Nadiem / Bpk Jokowi
+R3_LOCATION_AFTER_PREPOSITION,Token[i].Kind='WORD' AND Token[i].LOPP AND Token[i+1].Kind='WORD' AND (Token[i+1].TitleCase OR Token[i+1].CapStart),Token[i+1].NE='LOCATION',di Indonesia / ke Jakarta
+R4_MONEY_QUANTITY,"Token[i].Kind='NUM' AND Token[i+1].Kind='WORD' AND Token[i+1] IN {ribu, juta, miliar, milyar, triliun}",Token[i:i+1].NE='MONEY',"280 juta / 16,3 triliun"
+R5_LEGAL_TERM,"Token[i].Kind='WORD' AND Token[i] IN {hukum, hakim, jaksa, putusan, vonis, penjara, denda, korupsi, koruptor}",Token[i].NE='LAW',hakim / vonis / korupsi
+R6_RELIGION_TERM,"Token[i].Kind='WORD' AND Token[i] IN {allah, alloh, tuhan, insyaallah, alhamdulillah, adzab}",Token[i].NE='RELIGION',Allah / Tuhan

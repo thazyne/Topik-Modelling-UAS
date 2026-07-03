@@ -1,0 +1,18 @@
+Feature Name,Explanation,Example
+ART,Article,"si, sang"
+ADJ,Adjective,"indah, baik, benar"
+ADV,Adverb,"telah, kemarin, sudah"
+AUX,Auxiliary verb,"harus, bisa"
+C,Conjunction,"dan, atau, lalu"
+DEF,Definition,"merupakan, adalah"
+NOUN,Noun,"rumah, hukum, korupsi"
+NOUNP,Personal noun,"ayah, ibu, pak"
+NUM,Number,"satu, dua, 500"
+MODAL,Modal,"akan, mau"
+OOV,Out of dictionary,jokodok
+PAR,Particle,"kah, pun"
+PREP,Preposition,"di, ke, dari"
+PRO,Pronominal,"saya, beliau"
+VACT,Active verb,"menuduh, menuntut"
+VPAS,Passive verb,"dituduh, dihukum"
+VERB,Verb,"pergi, dukung"

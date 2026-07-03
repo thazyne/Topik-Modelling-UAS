@@ -1,0 +1,7 @@
+Rule ID,IF,THEN,Contoh
+PF1_PREPOSITION,"Token[i].Kind='WORD' AND lower(Token[i]) IN {di, ke, dari, pada, untuk, oleh}",Token[i].POSFeature='PREP',dari -> PREP
+PF2_CONJUNCTION,"Token[i].Kind='WORD' AND lower(Token[i]) IN {dan, atau, lalu, tetapi, karena}",Token[i].POSFeature='C',dan -> C
+PF3_NOUN,Token[i].Kind='WORD' AND lower(Token[i]) IN kamus NOUN,Token[i].POSFeature='NOUN',hukum -> NOUN
+PF4_NUMBER,Token[i].Kind='NUM' OR lower(Token[i]) IN daftar kata bilangan,Token[i].POSFeature='NUM',280 -> NUM; juta -> NUM
+PF5_ACTIVE_VERB,"lower(Token[i]) starts with {men, mem, meng, me}",Token[i].POSFeature='VACT',menuduh -> VACT
+PF6_OUT_OF_DICTIONARY,Token[i].Kind='WORD' AND Token[i] does not match any POS lexicon/rule,Token[i].POSFeature='OOV',jokodok -> OOV
