@@ -217,6 +217,14 @@ Isi workbook:
 
 Sheet `EO Validation` memakai formula Excel agar perhitungan EO bisa diaudit langsung. Nilai EO dari Python dibandingkan dengan nilai EO dari Excel, lalu dihitung selisihnya.
 
+Workbook validasi ini dibuat dengan script Python:
+
+```text
+tools/build_ftc_validation_workbook.py
+```
+
+Script tersebut memakai library Python `xlsxwriter` untuk membuat file Excel dan `openpyxl` untuk memverifikasi formula. Tidak diperlukan `node_modules`.
+
 ## 4. Export Hasil
 
 Bagian export berada pada `## 4. Export Hasil`.
